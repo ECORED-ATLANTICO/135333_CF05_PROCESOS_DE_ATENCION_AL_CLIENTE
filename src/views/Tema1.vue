@@ -17,11 +17,11 @@
 
     Separador
 
-    #t_1_1.titulo-segundo.color-primario
+    #t_1_1.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.1 Concepto
     .mb-0 
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img_2.png')})`}"
       )
@@ -43,7 +43,7 @@
 
         Separador
 
-        #t_1_2.titulo-segundo.color-primario
+        #t_1_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 1.2 Tipos
         .mb-0 
 
@@ -52,7 +52,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.mb-3
-        .titulo-sexto.color-primario
+        .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           |    Clasificación de los datos
         figure(data-aos="flip-left")
@@ -62,7 +62,7 @@
 
     Separador
 
-    #t_1_3.titulo-segundo.color-primario
+    #t_1_3.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.3 Parámetros
     .mb-0 
 
@@ -78,7 +78,7 @@
 
     .bg_img_1.mb-3
 
-      TabsB.color-secundario
+      TabsB.color-secundario(data-aos="zoom-in-right")
         .py-4.py-md-5.tarjeta--bg-img.color-acento-contenido-cv(titulo="Relevancia")
           .row.justify-content-center.align-items-center.mb-5
             .col-12.col-lg-9.order-2.order-lg-1
@@ -120,7 +120,7 @@
 
           Separador
 
-          #t_1_4.titulo-segundo.color-primario
+          #t_1_4.titulo-segundo.color-acento-contenido
             .h2(data-aos="fade-right") 1.4 Procesamiento
           .mb-0 
 
@@ -134,7 +134,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0
-        .titulo-sexto.color-primario(data-aos="zoom-in-right")
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 1.
           |  Etapas del procesamiento de datos en entornos digitales
         .tabla-a.mb-5(data-aos="flip-left")
@@ -177,7 +177,7 @@
               p.mb-0 Una vez comprendido el valor y las fuentes de los datos, es esencial conocer cómo se gestionan a lo largo de su ciclo de vida. Un manejo adecuado asegura que los datos sean confiables, seguros y útiles para la toma de decisiones estratégicas. El ciclo de vida del dato incluye cinco etapas fundamentales:
 
     .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
-      SlyderF(columnas="col-12 col-sm-6 col-md-4 col-lg-4").p-2.rounded-3
+      SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3
         .tarjeta--fondo-img-1.h-100
           .tarjeta--01.mb-3
           h5.text-center.mb-4 Recopilación 
@@ -205,7 +205,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
-        .titulo-sexto.color-primario(data-aos="zoom-in-right")
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 2.
           |  Ciclo de vida del dato 
         .tabla-a.mb-5(data-aos="flip-left")
@@ -274,37 +274,37 @@
 
           Separador
 
-          #t_1_5.titulo-segundo.color-primario
+          #t_1_5.titulo-segundo.color-acento-contenido
             .h2(data-aos="fade-right") 1.5 Herramientas
           .mb-0 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_23.png', class="img-fluid") 
         .col-12.col-lg-7
           p.mb-3(data-aos="zoom-in-right") Las herramientas facilitan la captura, almacenamiento, análisis y visualización de datos. En el entorno digital, su uso permite automatizar procesos y mejorar la precisión analítica.
           p.mb-3(data-aos="zoom-in-right") Algunas herramientas comúnmente utilizadas son:
           .row.justify-content-center.align-items-stretch.mb-0
-            .col-12.col-lg-6.mb-4
+            .col-12.col-lg-6.mb-4(data-aos="zoom-in-right")
               .tarjeta-numerada.color-primario-v.h-100
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                   figure
                     img(src='@/assets/curso/tema1/img_24.png', class="img-fluid") 
                 p.mb-0 Google Analytics, para análisis de tráfico web.
-            .col-12.col-lg-6.mb-4
+            .col-12.col-lg-6.mb-4(data-aos="zoom-in-right")
               .tarjeta-numerada.color-primario-v.h-100
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                   figure
                     img(src='@/assets/curso/tema1/img_24.png', class="img-fluid") 
                 p.mb-0 Google Search Console, para seguimiento de rendimiento en buscadores
-            .col-12.col-lg-6.mb-lg-0.mb-4
+            .col-12.col-lg-6.mb-lg-0.mb-4(data-aos="zoom-in-right")
               .tarjeta-numerada.color-primario-v.h-100
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                   figure
                     img(src='@/assets/curso/tema1/img_24.png', class="img-fluid") 
                 p.mb-0 Microsoft Excel, para procesamiento y análisis de datos.
-            .col-12.col-lg-6.mb-lg-0.mb-4
+            .col-12.col-lg-6.mb-lg-0.mb-4(data-aos="zoom-in-right")
               .tarjeta-numerada.color-primario-v.h-100
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                   figure
@@ -315,7 +315,7 @@
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-3(data-aos="zoom-in-right") La elección de la herramienta depende del volumen de datos, la complejidad del análisis y los objetivos estratégicos de la organización. A continuación, se detalla información de los tableros de control:
         p.mb-0(data-aos="zoom-in-right") Antes de diseñar cualquier gráfico o tablero, la organización debe definir el propósito de la visualización. Mostrar todos los datos disponibles no es una estrategia; es una acumulación. La visualización estratégica actúa como un filtro que selecciona únicamente la información que influye en los objetivos institucionales.
-      .col-md-4.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_25.png', class="img-fluid") 
 
@@ -344,7 +344,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
-        .titulo-sexto.color-primario(data-aos="zoom-in-right")
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 3.
           |  Decisiones previas al diseño visual
         .tabla-a.mb-5(data-aos="flip-left")
@@ -375,7 +375,7 @@
                 td.text-start Visualización sin impacto.
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10.mb-0
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
         .subtitulo-destacado.mb-5
           .subtitulo-destacado__fondo
             h4.subtitulo-destacado__texto El tablero de contro
@@ -389,12 +389,11 @@
       .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
         p.mb-3 Un tablero eficaz concentra indicadores estratégicos y facilita comparación temporal. Cuando está correctamente diseñado, permite responder de manera casi inmediata si el desempeño se mantiene estable o requiere intervención.
         .tarjeta.color-acento-botones-cv.p-4.rounded-0.mb-3(data-aos="zoom-in-right")
-          .col-12.col-lg11.mb-0(data-aos="zoom-in-right")
-            p.mb-0 El exceso de indicadores genera ruido visual. Por ello, es recomendable que el tablero incluya únicamente variables que impacten directamente en los objetivos organizacionales. A continuación, se muestran los elementos que fortalecen el tablero.
+          p.mb-0(data-aos="zoom-in-right") El exceso de indicadores genera ruido visual. Por ello, es recomendable que el tablero incluya únicamente variables que impacten directamente en los objetivos organizacionales. A continuación, se muestran los elementos que fortalecen el tablero.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
-        .titulo-sexto.color-primario(data-aos="zoom-in-right")
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 4.
           |  Elementos que fortalecen un tablero estratégico
         .tabla-a.mb-5(data-aos="flip-left")
@@ -429,7 +428,7 @@
 
         Separador
 
-        #t_1_6.titulo-segundo.color-primario
+        #t_1_6.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 1.6 Metodología
         .mb-0 
 
@@ -441,23 +440,248 @@
 
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10.mb-0
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
         .subtitulo-destacado.mb-5
           .subtitulo-destacado__fondo
             h4.subtitulo-destacado__texto Interpretación de resultados
       .col-12.col-lg-10.mb-0
         p.mb-0(data-aos="zoom-in-right") Interpretar implica responder preguntas fundamentales: ¿qué está ocurriendo?, ¿por qué está ocurriendo?, ¿qué consecuencias tiene para la estrategia?, y ¿qué decisiones se derivan de esta información? Este proceso requiere pensamiento crítico, comprensión del modelo de negocio y capacidad de relacionar variables aparentemente independientes.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_30.svg', class="img-fluid")
       .col-12.col-lg-9.mb-0(data-aos="zoom-in-right")
         p.mb-0 Por ejemplo, una disminución en la tasa de conversión no puede analizarse de manera aislada. Puede estar asociada a múltiples factores: cambios en la segmentación del público, modificación en el mensaje publicitario, problemas técnicos en la plataforma o incluso factores externos como variaciones estacionales. El análisis riguroso exige contrastar datos históricos, revisar métricas complementarias y comprender el contexto competitivo.
                 
-    .bg_img_3.mb-3
+    .bg_img_3.mb-0
 
-      
+      .row.justify-content-center.align-items-center.mb-3
+        .col-12.col-lg-10.mb-3(data-aos="zoom-in-right")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-7
+                  p.cita-decorada__texto.mb-2.p-3 Desde una perspectiva metodológica, la interpretación estratégica se apoya en distintos niveles de análisis:
+                    br
+                    br
+                    ul.list-unstyled.mb-1
+                      li.d-flex.align-items-start.mb-0
+                        i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                        span El análisis descriptivo permite entender qué ocurrió.
+                      li.d-flex.align-items-start.mb-0
+                        i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                        span El análisis diagnóstico busca explicar por qué ocurrió.
+                      li.d-flex.align-items-start.mb-0
+                        i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                        span El análisis predictivo proyecta escenarios futuros.
+                      li.d-flex.align-items-start.mb-0
+                        i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                        span El análisis prescriptivo sugiere acciones concretas.
+                .col-5.col-lg-5.d-none.d-lg-block 
+                  figure
+                    img(src='@/assets/curso/tema1/img_31.png', class="cita-decorada__imagen-flotante-1")
+        .col-12.col-lg-10.mb-0
+         p.mb-0(data-aos="zoom-in-right") Estos niveles no son independientes; forman un proceso progresivo que fortalece la toma de decisiones. Una organización que se limita al análisis descriptivo permanece en un nivel operativo. En cambio, cuando integra análisis predictivo y prescriptivo, evoluciona hacia un enfoque estratégico y prospectivo.
+
+      .row.justify-content-center.align-items-center.mb-4
+        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          figure
+            img(src='@/assets/curso/tema1/img_33.png', class="img-fluid")
+        .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
+          p.mb-3 Además, la interpretación efectiva requiere reconocer patrones y anomalías. Las tendencias sostenidas indican comportamientos estructurales del mercado, mientras que las variaciones abruptas pueden revelar problemas críticos o nuevas oportunidades. En este sentido, la interpretación se convierte en una herramienta de anticipación estratégica.
+          p.mb-0 En la siguiente tabla de describen los niveles de análisis, enfoque, alcance y tipo de decisión derivada.
+
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10.mb-0
+          .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            h5 Tabla 5.
+            |  Niveles de análisis e implicaciones estratégicas
+          .tabla-a.mb-5(data-aos="flip-left")
+            table
+              caption 
+                p <b>Nota.</b> Adaptada de Chunir Panjon et al, (2024); SENA, 2025.
+              thead
+                tr
+                  th.col-auto.col-lg-auto Nivel de análisis
+                  th.col-auto.col-lg-auto Enfoque conceptual
+                  th.col-auto.col-lg-auto Alcance estratégico
+                  th.col-auto.col-lg-auto Tipo de decisión derivada
+              tbody
+                tr
+                  td.text-start Descriptivo.
+                  td.text-start Explica qué ocurrió.
+                  td.text-start Control operativo.
+                  td.text-start Ajustes inmediatos.
+                tr
+                  td.text-start Diagnóstico.
+                  td.text-start Identifica causas.
+                  td.text-start Optimización táctica.
+                  td.text-start Corrección de procesos.
+                tr
+                  td.text-start Predictivo.
+                  td.text-start Proyecta escenarios.
+                  td.text-start Planificación estratégica.
+                  td.text-start Prevención de riesgos.
+                tr
+                  td.text-start Prescriptivo.
+                  td.text-start Recomienda acciones.
+                  td.text-start Innovación y ventaja competitiva.
+                  td.text-start Transformación estratégica.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+        p.mb-0 Un aspecto central en la interpretación es evitar errores cognitivos. La sobre interpretación de datos parciales, la confirmación de hipótesis previas sin evidencia suficiente o la confusión entre correlación y causalidad pueden conducir a decisiones erróneas. Por ello, el análisis debe fundamentarse en evidencia estadística y contraste de información.
+
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/img_2.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Asimismo, la interpretación estratégica exige alineación con los objetivos organizacionales. No todas las métricas tienen el mismo peso. En una empresa enfocada en crecimiento, el volumen de adquisición puede priorizarse sobre la rentabilidad inmediata. En cambio, en una organización orientada a consolidación financiera, el ROI y el margen operativo serán prioritarios.
+          br
+          br
+          | En consecuencia, interpretar resultados no es un acto técnico aislado, sino un proceso gerencial que conecta datos con visión empresarial.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+        .subtitulo-destacado.mb-5
+          .subtitulo-destacado__fondo
+            h4.subtitulo-destacado__texto Decisiones basadas en datos
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-7.order-2.order-lg-1
+        p.mb-3(data-aos="zoom-in-right") La toma de decisiones basada en datos representa un cambio paradigmático en la gestión empresarial contemporánea. Tradicionalmente, las decisiones estratégicas dependían en gran medida de la experiencia y la intuición directiva. Si bien estos elementos siguen siendo valiosos, el entorno digital exige respaldo cuantitativo para minimizar incertidumbre y riesgo.
+        p.mb-0(data-aos="zoom-in-right") Decidir con base en datos implica integrar análisis estadístico, comprensión del mercado y evaluación de escenarios. El proceso no consiste simplemente en observar indicadores, sino en transformarlos en criterios objetivos que orienten la acción.
+      .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        figure
+          img(src='@/assets/curso/tema1/img_35.png', class="img-fluid") 
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        figure
+          img(src='@/assets/curso/tema1/img_36.png', class="img-fluid")
+      .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
+        .tarjeta.color-primario-cv.p-5.rounded-0.mb-3(data-aos="zoom-in-right")
+          p.mb-0(data-aos="zoom-in-right") Cuando una organización detecta un aumento en el costo de adquisición de clientes (CAC), por ejemplo, no debe reaccionar de manera impulsiva reduciendo inversión. Debe analizar variables asociadas: competencia publicitaria, segmentación, calidad del contenido, comportamiento del usuario y tasa de conversión. Solo a partir de este análisis integral puede determinar si la solución requiere optimización del embudo de ventas, ajuste presupuestario o rediseño estratégico.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-12.col-lg-10.mb-3
+        .tarjeta.color-terciario-cv.p-5.rounded-0.mb-3(data-aos="zoom-in-right")
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.col-lg-6.order-2.order-lg-1(data-aos="zoom-in-right")
+              p.mb-3(data-aos="zoom-in-right") Desde una perspectiva estructural, la toma de decisiones basada en datos sigue un ciclo continuo:
+              ol.lista-ol
+                li.mb-0
+                  span.text-bold a. 
+                  | Definición clara del problema o meta estratégica.
+                li.mb-0
+                  span.text-bold b. 
+                  | Recolección y validación de información relevante.
+                li.mb-0
+                  span.text-bold c. 
+                  | Análisis integral y contextualizado.
+                li.mb-0
+                  span.text-bold d. 
+                  | Evaluación de alternativas con proyección de impacto.
+                li.mb-0
+                  span.text-bold e. 
+                  | Implementación controlada.
+                li.mb-0
+                  span.text-bold f. 
+                  | Seguimiento y retroalimentación.
+            .col-12.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              figure
+                img(src='@/assets/curso/tema1/img_37.png', class="img-fluid")
+      .col-12.col-lg-10.mb-0
+        p.mb-0(data-aos="zoom-in-right") Este ciclo transforma la gestión en un proceso dinámico y adaptable.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10.mb-3
+        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+          h5 Tabla 6.
+          |  Proceso integral de decisión estratégica basada en datos
+        .tabla-a.mb-5(data-aos="flip-left")
+          table
+            caption 
+              p <b>Nota.</b> Adaptada de Chunir Panjon et al., (2024); SENA, 2025.
+            thead
+              tr
+                th.col-auto.col-lg-3 Fase
+                th.col-auto.col-lg-auto Descripción conceptual
+                th.col-auto.col-lg-auto Impacto organizacional
+            tbody
+              tr
+                td.text-start Identificación.
+                td.text-start Clarificación del problema o meta.
+                td.text-start Enfoque estratégico claro.
+              tr
+                td.text-start Análisis.
+                td.text-start Evaluación multidimensional de datos.
+                td.text-start Reducción de incertidumbre.
+              tr
+                td.text-start Evaluación.
+                td.text-start Comparación de alternativas.
+                td.text-start Minimización de riesgo.
+              tr
+                td.text-start Implementación.
+                td.text-start Aplicación controlada.
+                td.text-start Acción medible.
+              tr
+                td.text-start Seguimiento.
+                td.text-start Medición de resultados.
+                td.text-start Mejora continua.
+      .col-12.col-lg-10.mb-3
+        p.mb-0(data-aos="zoom-in-right") Un componente fundamental es la cultura organizacional orientada a datos. La verdadera transformación ocurre cuando el análisis no depende únicamente de un área técnica, sino que permea todos los niveles jerárquicos. En una cultura data-driven:
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-10.mb-3(data-aos="zoom-in-right")
+        .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-6
+                  ul.list-unstyled.cita-decorada__texto.mb-1.p-3 
+                    li.d-flex.align-items-start.mb-0
+                      i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                      span Las decisiones estratégicas se sustentan en indicadores.
+                    li.d-flex.align-items-start.mb-0
+                      i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                      span Los equipos revisan métricas periódicamente.
+                    li.d-flex.align-items-start.mb-0
+                      i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                      span Se fomenta la alfabetización digital.
+                    li.d-flex.align-items-start.mb-0
+                      i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
+                      span Los errores se corrigen con base en evidencia.
+                  p.cita-decorada__texto.mb-2.p-3 Esta cultura reduce la subjetividad y fortalece la competitividad.
+                .col-12.col-lg-6.d-none.d-lg-block 
+                  figure
+                    img(src='@/assets/curso/tema1/img_38.png', class="cita-decorada__imagen-flotante-2")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        figure
+          img(src='@/assets/curso/tema1/img_39.png', class="img-fluid")
+      .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
+        p.mb-3 En términos financieros, las organizaciones que adoptan decisiones basadas en datos suelen presentar mejoras en rentabilidad, optimización presupuestaria y eficiencia operativa. La capacidad de identificar oportunidades tempranas y anticipar riesgos proporciona ventajas sostenibles en mercados altamente dinámicos.
+        p.mb-0 Finalmente, es importante comprender que los datos no sustituyen el liderazgo, sino que lo fortalecen. La dirección estratégica requiere interpretación humana, criterio ético y visión de largo plazo. Los datos orientan; los líderes deciden.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-8.mb-4.mb-lg-0
+                p.mb-4 Escucha el podcast <strong>“Charlas que venden”</strong> y su episodio
+                TarjetaAudio.color-primario-o.mb-0(
+                  texto="<h4 class='mb-0'>Decisiones y rentabilidad digital</h4>"
+                  :audio="require('@/assets/curso/tema1/img_41.png')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = true"
+                  style="border: none !important; padding: 0 !important; background: transparent !important;"
+                )
+                  .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+              .col-8.col-lg-4.d-none.d-lg-block.position-relative
+                figure
+                  img(src='@/assets/curso/tema1/img_41.png', class="cita-decorada__imagen-flotante-3")
 
 </template>
 

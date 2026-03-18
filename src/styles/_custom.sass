@@ -96,7 +96,8 @@ figcaption
   background-color: $color-primario-cv
   border-right: 2px solid $color-primario
   border-bottom: 2px solid $color-acento-contenido-cv
-
+.tabs-b__tab:last-child 
+  border-right: 2px solid $color-primario
 
 // factores-slider custom-slider
 .factores-slider, .custom-slider
@@ -174,3 +175,78 @@ figcaption
 
     &__texto
       font-size: 1rem
+
+
+
+// --- CITA DECORADA --- //
+.cita-decorada
+  
+  .cita-decorada__caja
+    background-size: 100% 100%
+    background-repeat: no-repeat
+
+    &--fondo-1
+      background-color: $color-terciario-cv
+    &--fondo-2
+      background-image: url('../assets/curso/tema1/img_40.png') 
+
+
+
+    [class*="cita-decorada__imagen-flotante"]
+      width: 100%
+      height: auto
+      
+    .cita-decorada__imagen-flotante-1
+      position: absolute
+      transform: translateY(-123px) translateX(-141px)
+      z-index: 3
+      max-width: 56%
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-87px) translateX(-72px)
+        max-width: 50%
+    .cita-decorada__imagen-flotante-2
+      position: absolute
+      transform: translateY(-148px) translateX(-121px)
+      z-index: 3
+      max-width: 65%
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-90px) translateX(-75px)
+        max-width: 60%
+    .cita-decorada__imagen-flotante-3
+      position: absolute
+      transform: translateY(-141px) translateX(50px)
+      z-index: 3
+      max-width: 260px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-116px) translateX(-3px)
+        max-width: 100%
+    .cita-decorada__imagen-flotante-4
+      position: absolute
+      transform: translateY(-58px) translateX(5px)
+      z-index: 3
+      max-width: 150px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-37px) translateX(8px)
+        max-width: 140px
+    .cita-decorada__imagen-flotante-5
+      position: absolute
+      transform: translateY(-65px) translateX(0px)
+      z-index: 3
+      max-width: 125px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-55px) translateX(-12px)
+        max-width: 100px
+    .cita-decorada__imagen-flotante-6
+      position: absolute
+      transform: translateY(-63px) translateX(15px)
+      z-index: 3
+      max-width: 140px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-57px) translateX(0px)
+        max-width: 120px
