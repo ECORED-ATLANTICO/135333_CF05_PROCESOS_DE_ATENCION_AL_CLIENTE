@@ -43,8 +43,34 @@
 
     .bg_img_4.mb-0
 
-
-      ///faltan targeta 
+      .row.justify-content-center.align-items-stretch.mb-5
+        .col-12.col-lg-3-3.mb-3.mb-lg-0
+          .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+            .row.justify-content-center.align-items-center.mb-3
+              .col-6.col-lg-6.mb-5
+                figure
+                  img(src='@/assets/curso/tema2/img_4.svg', class="img-fluid")
+              .col-12.col-lg-12.text-center.mb-0
+                h5.mb-3 Nivel estratégico
+                p.mb-0 Orientado a los objetivos generales de la organización, como aumento de ingresos, participación de mercado o rentabilidad
+        .col-12.col-lg-3-3.mb-3.mb-lg-0
+          .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+            .row.justify-content-center.align-items-center.mb-3
+              .col-6.col-lg-6.mb-5
+                figure
+                  img(src='@/assets/curso/tema2/img_4.svg', class="img-fluid")
+              .col-12.col-lg-12.text-center.mb-0
+                h5.mb-3 Nivel táctico
+                p.mb-0 Enfocado en la gestión de campañas, proyectos o procesos específicos que apoyan la estrategia general.
+        .col-12.col-lg-3-3.mb-3.mb-lg-0
+          .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+            .row.justify-content-center.align-items-center.mb-3
+              .col-6.col-lg-6.mb-5
+                figure
+                  img(src='@/assets/curso/tema2/img_4.svg', class="img-fluid")
+              .col-12.col-lg-12.text-center.mb-0
+                h5.mb-3 Nivel operativo
+                p.mb-0 Centrado en el seguimiento de actividades diarias y el desempeño individual de procesos o equipos.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
@@ -65,8 +91,29 @@
           figure
             img(src='@/assets/curso/tema2/img_5.png', class="img-fluid")
         .col-12.col-lg-8.mb-0
-          p.mb-3(data-aos="zoom-in-right") El alcance de un KPI define el límite y la extensión de su aplicación. Un buen KPI debe ser claro respecto a:
-          ///falta 
+          p.mb-4(data-aos="zoom-in-right") El alcance de un KPI define el límite y la extensión de su aplicación. Un buen KPI debe ser claro respecto a:
+          TabsA.color-primario-o.mb-3
+            .tarjeta.color-primario-cv.p-4(titulo="Temporalidad")
+              .row.justify-content-center.align-items-center.mb-0
+                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                  figure
+                    img(src='@/assets/curso/tema2/img_6.svg', class="img-fluid")
+                .col-12.col-lg-7.mb-0
+                  p.mb-0(data-aos="zoom-in-right") Especificar el período de evaluación (diario, mensual, trimestral).
+            .tarjeta.color-primario-cv.p-4(titulo="Funcionalidad")
+              .row.justify-content-center.align-items-center.mb-0
+                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                  figure
+                    img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid")
+                .col-12.col-lg-8.mb-0
+                  p.mb-0(data-aos="zoom-in-right") Delimitar el área o proceso que se mide, evitando interpretaciones ambiguas.
+            .tarjeta.color-primario-cv.p-4(titulo="Relevancia")
+              .row.justify-content-center.align-items-center.mb-0
+                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                  figure
+                    img(src='@/assets/curso/tema2/img_8.svg', class="img-fluid")
+                .col-12.col-lg-8.mb-0
+                  p.mb-0(data-aos="zoom-in-right") Centrarse en métricas que aporten valor real a la estrategia y al cumplimiento de objetivos.
           .cajon.color-terciario.p-4(data-aos="zoom-in-right")
             p.mb-0 Determinar correctamente el alcance evita esfuerzos innecesarios en la recolección de datos y asegura que los indicadores reflejen con precisión el desempeño esperado.
     
@@ -176,19 +223,19 @@
         .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
             .tarjeta--fondo-img-1.h-100
-              .tarjeta--01.mb-3 
+              .tarjeta--06.mb-3 
               h5.text-center.mb-4 Contextualización.
               .tarjeta--slider__content.text-center.mb-2 Explicar escenario evaluado. Impacto en la toma de decisiones. Comprensión integral.
             .tarjeta--fondo-img-1.h-100
-              .tarjeta--01.mb-3
+              .tarjeta--07.mb-3
               h5.text-center.mb-4  Evidencia visual.
               .tarjeta--slider__content.text-center.mb-2 Mostrar resultados clave. Impacto en la toma de decisiones. Comprensión integral.
             .tarjeta--fondo-img-1.h-100
-              .tarjeta--01.mb-3
+              .tarjeta--08.mb-3
               h5.text-center.mb-4  Interpretación.
               .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica
             .tarjeta--fondo-img-1.h-100
-              .tarjeta--01.mb-3
+              .tarjeta--09.mb-3
               h5.text-center.mb-4  Recomendaciones.
               .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables Impacto en la toma de decisiones. Orientación futura.
 
@@ -217,8 +264,18 @@
         p.mb-3(data-aos="zoom-in-right") La visualización estratégica no consiste en producir gráficos atractivos, sino en facilitar comprensión significativa. Cuando se diseña con criterio analítico, se convierte en un instrumento que conecta información con acción.
         p.mb-0(data-aos="zoom-in-right") En entornos digitales dinámicos, la rapidez con la que se interpreta un indicador puede definir la diferencia entre reaccionar tarde o anticiparse al cambio. Por ello, integrar visualización, seguimiento y narrativa analítica es fundamental para consolidar una gestión basada en evidencia.
 
-    ////falta 
-
+    .cita-decorada
+      blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.rounded-0.rounded-tr-5.p-5
+        .row.justify-content-center.align-items-center
+          .col-4.col-lg-4.d-none.d-lg-block
+            figure
+              img(src='@/assets/curso/tema2/img_20.png', class="cita-decorada__imagen-flotante-4")
+          .col-12.col-lg-8
+            p.cita-decorada__texto.mb-1.p-3 Este es un ejemplo de introducción para un informe estratégico que analiza el desempeño digital de Nativa Verde S.A.S. durante el segundo trimestre de 2026 en el contexto colombiano. Se muestran indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización. El objetivo es ejemplificar cómo presentar hallazgos que fundamenten decisiones estratégicas orientadas a mejorar la rentabilidad y el retorno de inversión en canales digitales:
+            .p-3
+              a.boton.color-acento-botones(href="" target="_blank")
+                span Ver pdf
+                i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
@@ -238,7 +295,25 @@
           p.mb-0 La metodología de gestión de datos es el conjunto de pasos sistemáticos que permiten transformar información cruda en conocimiento estratégico. Su aplicación asegura que los datos sean fiables, pertinentes y útiles para la toma de decisiones. Este proceso se articula en fases que van desde la definición de objetivos hasta la implementación de mejoras continuas. Una metodología estructurada permite optimizar recursos y convertir los datos en un activo estratégico para la organización.
           p.mb-0 Metodología para la gestión de datos
 
-
+    .row.justify-content-center.align-items-start.mb-5
+      .col-12.col-lg-7.order-2.order-lg-1.mb-3(data-aos="zoom-in-right")
+        AcordionA(tipo="a"  clase-tarjeta="tarjeta tarjeta--color-secundario-cv")
+          div(titulo="Definición del objetivo")
+            p.mb-0 Establecer con claridad qué se desea medir y para qué se utilizará la información. Ejemplo práctico. Determinar el retorno de inversión (ROI) de una campaña digital.
+          div(titulo="Identificación de fuentes")
+            p.mb-0 Localizar y seleccionar fuentes internas y externas de datos confiables. Ejemplo práctico. Bases de datos de clientes, métricas web, encuestas de satisfacción.
+          div(titulo="Recolección y validación")
+            p.mb-0 Capturar los datos asegurando exactitud, relevancia y consistencia. Ejemplo práctico. Revisar que no existan duplicados y que la información esté actualizada.
+          div(titulo="Organización y procesamiento")
+            p.mb-0 Clasificar, depurar y estructurar los datos para facilitar su análisis. Ejemplo práctico. Consolidar información en hojas de cálculo o sistemas de inteligencia de negocios.
+          div(titulo="Análisis e interpretación")
+            p.mb-0 Aplicar técnicas estadísticas o predictivas para extraer conocimiento útil. Ejemplo práctico. Comparar inversión publicitaria vs. ventas generadas para identificar tendencias.
+          div(titulo="Toma de decisiones y mejora continua")
+            p.mb-0 Formular acciones estratégicas basadas en los hallazgos y retroalimentar el proceso. Ejemplo práctico. Ajustar campañas, optimizar recursos y mejorar procesos internos.
+      .col-10.col-lg-3.order-1.order-lg-2.mb-3(data-aos="flip-left")
+        figure
+          img(src='@/assets/curso/tema2/img_23.png', class="img-fluid")
+      
 
 </template>
 
