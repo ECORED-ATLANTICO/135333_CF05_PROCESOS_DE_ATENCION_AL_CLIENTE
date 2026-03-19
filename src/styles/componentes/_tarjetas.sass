@@ -700,3 +700,43 @@
       flex: 1
       display: flex
       justify-content: center
+      
+// tarjeta matemática
+.tarjeta-formula
+  span 
+    color: inherit 
+    font-size: 1.1rem
+
+.fraccion
+  display: flex
+  flex-direction: column
+  align-items: center
+  text-align: center
+  
+  &__numerador
+    padding-bottom: 0.3rem
+    border-bottom: 2px solid currentColor 
+    width: 100%
+    
+  &__denominador
+    padding-top: 0.3rem
+      
+  &.linea-primario
+    .fraccion__numerador
+      border-bottom-color: $color-primario
+      
+  &.linea-secundario
+    .fraccion__numerador
+      border-bottom-color: $color-secundario
+
+  &.linea-terciaria
+    .fraccion__numerador
+      border-bottom-color: $color-terciario 
+      
+  &.linea-acento-contenido
+    .fraccion__numerador
+      border-bottom-color: $color-acento-contenido
+      
+  &.linea-acento-botones
+    .fraccion__numerador
+      border-bottom-color: $color-acento-botones

@@ -13,7 +13,7 @@
       .bloque-texto-t__texto.col-9.mb-0
         p.mb-0 Medir el desempeño digital es clave para comprender cómo interactúan los usuarios con una marca y para tomar decisiones estratégicas basadas en datos reales. Las métricas web permiten evaluar la efectividad de campañas, identificar oportunidades de mejora, optimizar el tráfico y la conversión, y garantizar que los objetivos digitales se cumplan de manera eficiente.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
 
         Separador
