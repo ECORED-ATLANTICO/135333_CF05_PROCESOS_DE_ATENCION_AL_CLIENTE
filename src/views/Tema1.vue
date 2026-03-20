@@ -178,11 +178,11 @@
 
     .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
       SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3
-        .tarjeta--fondo-img-1.h-100
+        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
           .tarjeta--01.mb-3
           h5.text-center.mb-4 Recopilación 
           .tarjeta--slider__content.text-center.mb-2 Captura de información desde múltiples fuentes internas y externas, asegurando integridad y relevancia.
-        .tarjeta--fondo-img-1.h-100
+        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
           .tarjeta--02.mb-3
           h5.text-center.mb-4 Almacenamiento
           .tarjeta--slider__content.text-center.mb-2 Los datos se guardan en sistemas seguros (bases de datos, nube) manteniendo integridad y accesibilidad.

@@ -222,19 +222,19 @@
       .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
         .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
-            .tarjeta--fondo-img-1.h-100
+            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
               .tarjeta--06.mb-3 
               h5.text-center.mb-4 Contextualización.
               .tarjeta--slider__content.text-center.mb-2 Explicar escenario evaluado. Impacto en la toma de decisiones. Comprensión integral.
-            .tarjeta--fondo-img-1.h-100
+            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
               .tarjeta--07.mb-3
               h5.text-center.mb-4  Evidencia visual.
               .tarjeta--slider__content.text-center.mb-2 Mostrar resultados clave. Impacto en la toma de decisiones. Comprensión integral.
-            .tarjeta--fondo-img-1.h-100
+            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
               .tarjeta--08.mb-3
               h5.text-center.mb-4  Interpretación.
               .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica
-            .tarjeta--fondo-img-1.h-100
+            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
               .tarjeta--09.mb-3
               h5.text-center.mb-4  Recomendaciones.
               .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables Impacto en la toma de decisiones. Orientación futura.
