@@ -8,7 +8,7 @@
       h1 Tratamiento de datos personales
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-md-10.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_1.png', class="img-fluid")
       .col-12.col-lg-6.mb-0
@@ -31,9 +31,9 @@
           h5 Figura 4.
           |    Operaciones en el tratamiento de datos
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-block d-lg-none").mb-5
-          figcaption <b>Nota.</b> Sena; 2026.
+          img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
+          img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
+          figcaption Nota. Sena; 2026.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -51,7 +51,7 @@
         .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-4.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-lg-1.mb-3.mb-lg-0.d-lg-block.d-none(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_4.png', class="img-fluid")
       .col-12.col-lg-9.mb-0
@@ -65,7 +65,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de Ley 1581 de 2012; Decreto 1377 de 2013.
+              p Nota. Adaptada de Ley 1581 de 2012; Decreto 1377 de 2013.
             thead
               tr
                 th.col-auto.col-lg-auto Principio
@@ -232,7 +232,7 @@
           .mb-0 
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_20.png', class="img-fluid")
         .col-12.col-lg-8.mb-0
@@ -250,7 +250,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de W. Edwards Deming, SENA 2025 y literatura de gestión de datos estratégicos.
+              p Nota. Adaptada de W. Edwards Deming, SENA 2025 y literatura de gestión de datos estratégicos.
             thead
               tr
                 th.col-auto.col-lg-auto Tipo de base de datos
@@ -302,7 +302,7 @@
         p.mb-0 El cumplimiento de la normatividad en el tratamiento de datos personales es un pilar esencial para garantizar la protección de los derechos de los titulares, minimizar riesgos legales y fortalecer la confianza de clientes y usuarios. En un entorno digital donde la información se convierte en un activo estratégico, las organizaciones deben alinearse con leyes, decretos y guías sectoriales que regulan la recolección, almacenamiento, análisis y visualización de datos.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_22.png', class="img-fluid")
       .col-12.col-lg-8.mb-0
@@ -317,7 +317,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Leyes 1581, 1266, 1580, 527; Decreto 1377; ISO/IEC 27001, Circulares Superfinanciera.
+              p Nota. Leyes 1581, 1266, 1580, 527; Decreto 1377; ISO/IEC 27001, Circulares Superfinanciera.
             thead
               tr
                 th.col-auto.col-lg-auto Norma / Decreto / Guía

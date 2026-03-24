@@ -95,24 +95,24 @@
           TabsA.color-primario-o.mb-3
             .tarjeta.color-primario-cv.p-4(titulo="Temporalidad")
               .row.justify-content-center.align-items-center.mb-0
-                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_6.svg', class="img-fluid")
-                .col-12.col-lg-7.mb-0
+                .col-8.col-lg-7.mb-0
                   p.mb-0(data-aos="zoom-in-right") Especificar el período de evaluación (diario, mensual, trimestral).
             .tarjeta.color-primario-cv.p-4(titulo="Funcionalidad")
               .row.justify-content-center.align-items-center.mb-0
-                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid")
-                .col-12.col-lg-8.mb-0
+                .col-8.col-lg-8.mb-0
                   p.mb-0(data-aos="zoom-in-right") Delimitar el área o proceso que se mide, evitando interpretaciones ambiguas.
             .tarjeta.color-primario-cv.p-4(titulo="Relevancia")
               .row.justify-content-center.align-items-center.mb-0
-                .col-6.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_8.svg', class="img-fluid")
-                .col-12.col-lg-8.mb-0
+                .col-8.col-lg-8.mb-0
                   p.mb-0(data-aos="zoom-in-right") Centrarse en métricas que aporten valor real a la estrategia y al cumplimiento de objetivos.
           .cajon.color-terciario.p-4(data-aos="zoom-in-right")
             p.mb-0 Determinar correctamente el alcance evita esfuerzos innecesarios en la recolección de datos y asegura que los indicadores reflejen con precisión el desempeño esperado.
@@ -139,9 +139,9 @@
           h5 Figura 2.
           |    Tipos de KPI web
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none").mb-5
-          figcaption <b>Nota.</b> Sena, 2026.
+          img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
+          img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
+          figcaption Nota. Sena, 2026.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -206,7 +206,7 @@
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
                   span Propuestas de acción fundamentadas.
-      .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema2/img_14.png', class="img-fluid") 
     
@@ -273,7 +273,8 @@
           .col-12.col-lg-8
             p.cita-decorada__texto.mb-1.p-3 Este es un ejemplo de introducción para un informe estratégico que analiza el desempeño digital de Nativa Verde S.A.S. durante el segundo trimestre de 2026 en el contexto colombiano. Se muestran indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización. El objetivo es ejemplificar cómo presentar hallazgos que fundamenten decisiones estratégicas orientadas a mejorar la rentabilidad y el retorno de inversión en canales digitales:
             .p-3
-              a.boton.color-acento-botones(href="" target="_blank")
+              a.boton.color-acento-botones(href="/downloads/anexos/Informe_estrategico.pdf" target="_blank")
+
                 span Ver pdf
                 i.fas.fa-file-download.ms-2
 
@@ -310,7 +311,7 @@
             p.mb-0 Aplicar técnicas estadísticas o predictivas para extraer conocimiento útil. Ejemplo práctico. Comparar inversión publicitaria vs. ventas generadas para identificar tendencias.
           div(titulo="Toma de decisiones y mejora continua")
             p.mb-0 Formular acciones estratégicas basadas en los hallazgos y retroalimentar el proceso. Ejemplo práctico. Ajustar campañas, optimizar recursos y mejorar procesos internos.
-      .col-10.col-lg-3.order-1.order-lg-2.mb-3(data-aos="flip-left")
+      .col-6.col-lg-3.order-1.order-lg-2.mb-3(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_23.png', class="img-fluid")
       

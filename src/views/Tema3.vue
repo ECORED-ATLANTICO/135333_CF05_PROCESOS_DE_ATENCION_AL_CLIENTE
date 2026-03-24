@@ -26,7 +26,7 @@
     .bg_img_5.mb-0
       
       .row.justify-content-center.align-items-center.mb-0
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_3.png', class="img-fluid")
         .col-12.col-lg-7.mb-0
@@ -38,7 +38,7 @@
           Separador
 
           #t_3_2.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 3.1 Tráfico y resultados
+            .h2(data-aos="fade-right") 3.2 Tráfico y resultados
           .mb-0 
         .col-12.col-lg-10.mb-0
           p.mb-0(data-aos="zoom-in-right") La conversión indica cuántos de los visitantes de un sitio web realizan una acción de valor, como una compra, un registro, una descarga o una suscripción. Analizar el tráfico junto con la conversión permite comprender no solo cuántas personas ingresan al sitio, sino también qué tan efectivo es para lograr resultados. Esta medición ayuda a detectar posibles obstáculos en el proceso, mejorar el desempeño de las estrategias digitales y aprovechar mejor los recursos disponibles.
@@ -49,7 +49,7 @@
           img(src='@/assets/curso/tema3/img_4.png', class="img-fluid")
       .col-12.col-lg-8.mb-0
         .row.justify-content-center.align-items-center.mb-2
-          .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+          .col-4.col-lg-2.mb-3.mb-lg-0.d-lg-block.d-none(data-aos="zoom-in-right")
             figure
               img(src='@/assets/curso/tema3/img_5.svg', class="img-fluid p-3")
           .col-12.col-lg-10.mb-0
@@ -62,9 +62,9 @@
           h5 Figura 3.
           |    Tipos de tráfico 
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema3/img_7.svg', class="img-fluid d-block d-lg-none").mb-5
-          figcaption <b>Nota.</b> Sena, 2026.
+          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-none d-lg-block", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
+          img(src='@/assets/curso/tema3/img_7.svg', class="img-fluid d-block d-lg-none", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
+          figcaption Nota. Sena, 2026.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -90,11 +90,11 @@
             span x 100 = 7.5 %
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-3.col-lg-1.mb-3.mb-lg-0.d-lg-block.d-none(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
       .col-12.col-lg-7.mb-0
-        p.mb-0(data-aos="zoom-in-right") Esto indica que el 7,5% del tráfico se convierte en ventas. La empresa puede trabajar en optimizar páginas de productos, promociones y UX para aumentar esta tasa.
+        p.mb-0(data-aos="zoom-in-right") Esto indica que el 7,5 % del tráfico se convierte en ventas. La empresa puede trabajar en optimizar páginas de productos, promociones y UX para aumentar esta tasa.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
@@ -109,7 +109,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de Chunir Panjon et al., (2024); SENA, 2025.
+              p Nota. Adaptada de Chunir Panjon et al., (2024); SENA, 2025.
             thead
               tr
                 th.col-auto.col-lg-auto Métrica

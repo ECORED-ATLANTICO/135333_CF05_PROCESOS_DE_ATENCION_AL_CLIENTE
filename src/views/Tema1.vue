@@ -56,9 +56,9 @@
           h5 Figura 1.
           |    Clasificación de los datos
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none").mb-5
-          figcaption <b>Nota.</b> Sena, (2026).
+          img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
+          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
+          figcaption Nota. Sena, (2026).
 
     Separador
 
@@ -140,7 +140,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de Laudon y Laudon (2020) y Chaffey y Ellis-Chadwick (2019).
+              p Nota. Adaptada de Laudon y Laudon (2020) y Chaffey y Ellis-Chadwick (2019).
             thead
               tr
                 th.col-auto.col-lg-2 Etapa
@@ -211,7 +211,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de Chunir Panjon et al., (2024); SENA, (2025).
+              p Nota. Adaptada de Chunir Panjon et al., (2024); SENA, (2025).
             thead
               tr
                 th.col-auto.col-lg-auto Etapa
@@ -315,7 +315,7 @@
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-3(data-aos="zoom-in-right") La elección de la herramienta depende del volumen de datos, la complejidad del análisis y los objetivos estratégicos de la organización. A continuación, se detalla información de los tableros de control:
         p.mb-0(data-aos="zoom-in-right") Antes de diseñar cualquier gráfico o tablero, la organización debe definir el propósito de la visualización. Mostrar todos los datos disponibles no es una estrategia; es una acumulación. La visualización estratégica actúa como un filtro que selecciona únicamente la información que influye en los objetivos institucionales.
-      .col-4.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_25.png', class="img-fluid") 
 
@@ -350,7 +350,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Sena, (2026).
+              p Nota. Sena, (2026).
             thead
               tr
                 th.col-auto.col-lg-auto Pregunta estratégica
@@ -399,7 +399,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Sena, 2026.
+              p Nota. Sena, 2026.
             thead
               tr
                 th.col-auto.col-lg-auto Elemento
@@ -485,7 +485,7 @@
          p.mb-0(data-aos="zoom-in-right") Estos niveles no son independientes; forman un proceso progresivo que fortalece la toma de decisiones. Una organización que se limita al análisis descriptivo permanece en un nivel operativo. En cambio, cuando integra análisis predictivo y prescriptivo, evoluciona hacia un enfoque estratégico y prospectivo.
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema1/img_33.png', class="img-fluid")
         .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
@@ -500,7 +500,7 @@
           .tabla-a.mb-5(data-aos="flip-left")
             table
               caption 
-                p <b>Nota.</b> Adaptada de Chunir Panjon et al, (2024); SENA, 2025.
+                p Nota. Adaptada de Chunir Panjon et al, (2024); SENA, 2025.
               thead
                 tr
                   th.col-auto.col-lg-auto Nivel de análisis
@@ -553,12 +553,12 @@
       .col-12.col-lg-7.order-2.order-lg-1
         p.mb-3(data-aos="zoom-in-right") La toma de decisiones basada en datos representa un cambio paradigmático en la gestión empresarial contemporánea. Tradicionalmente, las decisiones estratégicas dependían en gran medida de la experiencia y la intuición directiva. Si bien estos elementos siguen siendo valiosos, el entorno digital exige respaldo cuantitativo para minimizar incertidumbre y riesgo.
         p.mb-0(data-aos="zoom-in-right") Decidir con base en datos implica integrar análisis estadístico, comprensión del mercado y evaluación de escenarios. El proceso no consiste simplemente en observar indicadores, sino en transformarlos en criterios objetivos que orienten la acción.
-      .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_35.png', class="img-fluid") 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_36.png', class="img-fluid")
       .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
@@ -604,7 +604,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Adaptada de Chunir Panjon et al., (2024); SENA, 2025.
+              p Nota. Adaptada de Chunir Panjon et al., (2024); SENA, 2025.
             thead
               tr
                 th.col-auto.col-lg-3 Fase
@@ -658,7 +658,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img_38.png', class="cita-decorada__imagen-flotante-2")
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_39.png', class="img-fluid")
       .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")

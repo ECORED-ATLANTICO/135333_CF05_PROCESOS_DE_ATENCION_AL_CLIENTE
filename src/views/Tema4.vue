@@ -39,7 +39,7 @@
           .mb-0 
 
       .row.justify-content-center.align-items-center.mb-3
-        .col-4.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-4.col-lg-1.mb-3.mb-lg-0.d-lg-block.d-none(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_4.png', class="img-fluid")
         .col-12.col-lg-9.mb-0
@@ -53,7 +53,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p <b>Nota.</b> Sena, 2026.
+              p Nota. Sena, 2026.
             thead
               tr
                 th.col-auto.col-lg-auto Parámetro
