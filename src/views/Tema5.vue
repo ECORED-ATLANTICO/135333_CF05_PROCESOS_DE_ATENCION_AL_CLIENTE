@@ -15,24 +15,24 @@
         p.mb-0(data-aos="zoom-in-right") El tratamiento de datos personales es fundamental para la gestión digital estratégica, porque asegura la protección legal y ética de la información, la confianza del cliente y la eficiencia en la toma de decisiones. Su correcta aplicación permite a las organizaciones analizar patrones de comportamiento, optimizar estrategias de marketing, y garantizar cumplimiento normativo, minimizando riesgos legales y reputacionales.
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10.mb-0
+      .col-12.col-lg-12.mb-0
 
         Separador
 
         #t_5_1.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 5.1 Definición
         .mb-0 
-      .col-12.col-lg-10.mb-0
+      .col-12.col-lg-12.mb-0
         p.mb-0(data-aos="zoom-in-right") El tratamiento de datos personales comprende todas las operaciones realizadas sobre información que identifica o hace identificable a una persona, incluyendo:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-12.col-lg-10.mb-3
+      .col-12.col-lg-12.mb-3
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
           |    Operaciones en el tratamiento de datos
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
-          img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
+          img(src='@/assets/curso/tema5/img_3.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
           figcaption Nota. Sena; 2026.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -198,23 +198,23 @@
         .col-12.col-lg-7.order-2.order-lg-1
           .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
-              .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+              .tarjeta--fondo-img-1.h-100
                 .tarjeta--10.mb-3
                 h5.text-center.mb-4 Privacidad y confidencialidad
                 .tarjeta--slider__content.text-center.mb-2 Restringir acceso a información sensible.
-              .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+              .tarjeta--fondo-img-1.h-100
                 .tarjeta--11.mb-3
                 h5.text-center.mb-4 Equidad
                 .tarjeta--slider__content.text-center.mb-2 Evitar sesgos o discriminación en análisis y segmentaciones
-              .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+              .tarjeta--fondo-img-1.h-100
                 .tarjeta--12.mb-3
                 h5.text-center.mb-4 Responsabilidad
                 .tarjeta--slider__content.text-center.mb-2 documentar decisiones basadas en datos
-              .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+              .tarjeta--fondo-img-1.h-100
                 .tarjeta--13.mb-3
                 h5.text-center.mb-4 Transparencia analítica
                 .tarjeta--slider__content.text-center.mb-2 resultados claros, contextualizados y verificables.
-              .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+              .tarjeta--fondo-img-1.h-100
                 .tarjeta--14.mb-3
                 h5.text-center.mb-4 Seguridad proactiva
                 .tarjeta--slider__content.text-center.mb-2 medidas preventivas contra filtraciones y pérdidas 
@@ -298,7 +298,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema5/img_21.png')
-      .bloque-texto-t__texto.col-9.mb-0
+      .bloque-texto-t__texto.col-10.mb-0
         p.mb-0 El cumplimiento de la normatividad en el tratamiento de datos personales es un pilar esencial para garantizar la protección de los derechos de los titulares, minimizar riesgos legales y fortalecer la confianza de clientes y usuarios. En un entorno digital donde la información se convierte en un activo estratégico, las organizaciones deben alinearse con leyes, decretos y guías sectoriales que regulan la recolección, almacenamiento, análisis y visualización de datos.
 
     .row.justify-content-center.align-items-center.mb-4

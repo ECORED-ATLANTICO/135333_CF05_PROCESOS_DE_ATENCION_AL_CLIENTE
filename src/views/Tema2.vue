@@ -10,7 +10,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema2/img_1.png')
-      .bloque-texto-t__texto.col-9.mb-0
+      .bloque-texto-t__texto.col-10.mb-0
         p.mb-0 Medir el desempeño digital es clave para comprender cómo interactúan los usuarios con una marca y para tomar decisiones estratégicas basadas en datos reales. Las métricas web permiten evaluar la efectividad de campañas, identificar oportunidades de mejora, optimizar el tráfico y la conversión, y garantizar que los objetivos digitales se cumplan de manera eficiente.
 
     .row.justify-content-center.align-items-center.mb-0
@@ -44,7 +44,7 @@
     .bg_img_4.mb-0
 
       .row.justify-content-center.align-items-stretch.mb-5
-        .col-12.col-lg-3-3.mb-3.mb-lg-0
+        .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
             .row.justify-content-center.align-items-center.mb-3
               .col-6.col-lg-6.mb-5
@@ -53,7 +53,7 @@
               .col-12.col-lg-12.text-center.mb-0
                 h5.mb-3 Nivel estratégico
                 p.mb-0 Orientado a los objetivos generales de la organización, como aumento de ingresos, participación de mercado o rentabilidad
-        .col-12.col-lg-3-3.mb-3.mb-lg-0
+        .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
             .row.justify-content-center.align-items-center.mb-3
               .col-6.col-lg-6.mb-5
@@ -62,7 +62,7 @@
               .col-12.col-lg-12.text-center.mb-0
                 h5.mb-3 Nivel táctico
                 p.mb-0 Enfocado en la gestión de campañas, proyectos o procesos específicos que apoyan la estrategia general.
-        .col-12.col-lg-3-3.mb-3.mb-lg-0
+        .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
             .row.justify-content-center.align-items-center.mb-3
               .col-6.col-lg-6.mb-5
@@ -95,21 +95,21 @@
           TabsA.color-primario-o.mb-3
             .tarjeta.color-primario-cv.p-4(titulo="Temporalidad")
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-md-2.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_6.svg', class="img-fluid")
                 .col-8.col-lg-7.mb-0
                   p.mb-0(data-aos="zoom-in-right") Especificar el período de evaluación (diario, mensual, trimestral).
             .tarjeta.color-primario-cv.p-4(titulo="Funcionalidad")
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-md-2.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_7.svg', class="img-fluid")
                 .col-8.col-lg-8.mb-0
                   p.mb-0(data-aos="zoom-in-right") Delimitar el área o proceso que se mide, evitando interpretaciones ambiguas.
             .tarjeta.color-primario-cv.p-4(titulo="Relevancia")
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
+                .col-4.col-md-2.col-lg-3.mb-3.mb-lg-0.p-2(data-aos="zoom-in-right")
                   figure
                     img(src='@/assets/curso/tema2/img_8.svg', class="img-fluid")
                 .col-8.col-lg-8.mb-0
@@ -222,19 +222,19 @@
       .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
         .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
-            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+            .tarjeta--fondo-img-1.h-100
               .tarjeta--06.mb-3 
               h5.text-center.mb-4 Contextualización.
               .tarjeta--slider__content.text-center.mb-2 Explicar escenario evaluado. Impacto en la toma de decisiones. Comprensión integral.
-            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+            .tarjeta--fondo-img-1.h-100
               .tarjeta--07.mb-3
               h5.text-center.mb-4  Evidencia visual.
               .tarjeta--slider__content.text-center.mb-2 Mostrar resultados clave. Impacto en la toma de decisiones. Comprensión integral.
-            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+            .tarjeta--fondo-img-1.h-100
               .tarjeta--08.mb-3
               h5.text-center.mb-4  Interpretación.
               .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica
-            .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+            .tarjeta--fondo-img-1.h-100
               .tarjeta--09.mb-3
               h5.text-center.mb-4  Recomendaciones.
               .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables Impacto en la toma de decisiones. Orientación futura.
@@ -283,8 +283,8 @@
 
         Separador
 
-        #t_2_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.5 Metodología. 
+        #t_2_5.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 2.5 Metodología
         .mb-0 
 
     .tarjeta--bg-img.color-acento-botones-cv.rounded-3.p-0.mb-5.overflow-hidden(data-aos="fade-right")

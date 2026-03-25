@@ -69,7 +69,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema1/img_6.png')
-      .bloque-texto-t__texto.col-9.mb-0
+      .bloque-texto-t__texto.col-10.mb-0
         p.mb-0 Los parámetros determinan los criterios bajo los cuales se recolectan, organizan y evalúan los datos dentro de una organización. Establecen límites de calidad, pertinencia y confiabilidad, y permiten asegurar que la información utilizada en los procesos estratégicos sea válida para la toma de decisiones. Sin parámetros definidos, la gestión de datos puede volverse dispersa, imprecisa y poco útil para los objetivos del plan de marketing digital.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -435,7 +435,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema1/img_29.png')
-      .bloque-texto-t__texto.col-9.mb-0
+      .bloque-texto-t__texto.col-10.mb-0
         p.mb-0 La metodología del manejo de datos comprende todos los pasos sistemáticos para recolectar, procesar, analizar e interpretar información, de modo que los datos dejen de ser cifras aisladas y se conviertan en conocimiento estratégico. En el contexto digital, las organizaciones generan grandes volúmenes de información: tráfico web, tasas de conversión, costos de adquisición, comportamiento del usuario, interacción en redes sociales y rendimiento publicitario. Sin embargo, el valor no reside en la acumulación de datos, sino en su comprensión profunda, contextualizada y metodológica. Este proceso incluye tanto la interpretación de resultados como la aplicación de los datos en la toma de decisiones.
 
 
@@ -535,7 +535,7 @@
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema1/img_2.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/img_34.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Asimismo, la interpretación estratégica exige alineación con los objetivos organizacionales. No todas las métricas tienen el mismo peso. En una empresa enfocada en crecimiento, el volumen de adquisición puede priorizarse sobre la rentabilidad inmediata. En cambio, en una organización orientada a consolidación financiera, el ROI y el margen operativo serán prioritarios.

@@ -18,7 +18,7 @@
     Separador
 
     #t_4_1.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.1 Concepto. 
+      .h2(data-aos="fade-right") 4.1 Concepto 
     .mb-0 
     
     .bg_img_6.mb-0
@@ -26,7 +26,7 @@
       .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
         .bloque-texto-t__img.mb-0
           img(src='@/assets/curso/tema4/img_3.png')
-        .bloque-texto-t__texto.col-9.mb-0
+        .bloque-texto-t__texto.col-10.mb-0
           p.mb-0 La calidad de la información se centra en garantizar que los datos sean confiables, comprensibles y oportunos, permitiendo que las decisiones se basen en evidencia sólida. Esta evaluación incluye tanto aspectos cuantitativos, como exactitud y completitud, como cualitativos, como relevancia y claridad. En entornos digitales, la calidad de la información es crítica para interpretar métricas de tráfico, conversión, satisfacción del cliente y desempeño de campañas, asegurando que las estrategias implementadas generen resultados consistentes y medibles.
 
       .row.justify-content-center.align-items-center.mb-0
@@ -35,7 +35,7 @@
           Separador
 
           #t_4_2.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 4.2 Parámetros de medición. 
+            .h2(data-aos="fade-right") 4.2 Parámetros de medición 
           .mb-0 
 
       .row.justify-content-center.align-items-center.mb-3

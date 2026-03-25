@@ -20,7 +20,7 @@
         Separador
 
         #t_3_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 3.1 Concepto. 
+          .h2(data-aos="fade-right") 3.1 Concepto 
         .mb-0 
 
     .bg_img_5.mb-0
