@@ -178,23 +178,23 @@
 
     .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
       SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3
-        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+        .tarjeta--fondo-img-1.h-100
           .tarjeta--01.mb-3
           h5.text-center.mb-4 Recopilación 
           .tarjeta--slider__content.text-center.mb-2 Captura de información desde múltiples fuentes internas y externas, asegurando integridad y relevancia.
-        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+        .tarjeta--fondo-img-1.h-100
           .tarjeta--02.mb-3
           h5.text-center.mb-4 Almacenamiento
           .tarjeta--slider__content.text-center.mb-2 Los datos se guardan en sistemas seguros (bases de datos, nube) manteniendo integridad y accesibilidad.
-        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+        .tarjeta--fondo-img-1.h-100
           .tarjeta--03.mb-3
           h5.text-center.mb-4 Análisis
           .tarjeta--slider__content.text-center.mb-2 Procesamiento de la información para transformarla en insights claros y útiles.
-        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+        .tarjeta--fondo-img-1.h-100
           .tarjeta--04.mb-3
           h5.text-center.mb-4 Explotación
           .tarjeta--slider__content.text-center.mb-2 Aplicación de los resultados del análisis para mejorar estrategias, operaciones y productos.
-        .tarjeta--fondo-img-1.h-100(data-aos="zoom-out-up")
+        .tarjeta--fondo-img-1.h-100
           .tarjeta--05.mb-3
           h5.text-center.mb-4 Depuración
           .tarjeta--slider__content.text-center.mb-2 Eliminación de registros duplicados, incorrectos o desactualizados para mantener calidad y confiabilidad.

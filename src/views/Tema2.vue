@@ -224,19 +224,19 @@
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
             .tarjeta--fondo-img-1.h-100
               .tarjeta--06.mb-3 
-              h5.text-center.mb-4 Contextualización.
+              h5.text-center.mb-4 Contextualización
               .tarjeta--slider__content.text-center.mb-2 Explicar escenario evaluado. Impacto en la toma de decisiones. Comprensión integral.
             .tarjeta--fondo-img-1.h-100
               .tarjeta--07.mb-3
-              h5.text-center.mb-4  Evidencia visual.
+              h5.text-center.mb-4  Evidencia visual
               .tarjeta--slider__content.text-center.mb-2 Mostrar resultados clave. Impacto en la toma de decisiones. Comprensión integral.
             .tarjeta--fondo-img-1.h-100
               .tarjeta--08.mb-3
-              h5.text-center.mb-4  Interpretación.
+              h5.text-center.mb-4  Interpretación
               .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica
             .tarjeta--fondo-img-1.h-100
               .tarjeta--09.mb-3
-              h5.text-center.mb-4  Recomendaciones.
+              h5.text-center.mb-4  Recomendaciones
               .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables Impacto en la toma de decisiones. Orientación futura.
 
     .row.justify-content-center.align-items-center.mb-3
