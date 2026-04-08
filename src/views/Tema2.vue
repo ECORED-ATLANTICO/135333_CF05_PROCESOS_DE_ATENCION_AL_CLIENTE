@@ -273,7 +273,7 @@
           .col-12.col-lg-8
             p.cita-decorada__texto.mb-1.p-3 Este es un ejemplo de introducción para un informe estratégico que analiza el desempeño digital de Nativa Verde S.A.S. durante el segundo trimestre de 2026 en el contexto colombiano. Se muestran indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización. El objetivo es ejemplificar cómo presentar hallazgos que fundamenten decisiones estratégicas orientadas a mejorar la rentabilidad y el retorno de inversión en canales digitales:
             .p-3
-              a.boton.color-acento-botones(href="/downloads/anexo1.pdf" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
 
                 span Ver pdf
                 i.fas.fa-file-download.ms-2
