@@ -29,7 +29,7 @@
         p.mb-0 Los datos constituyen el insumo básico para la toma de decisiones en entornos digitales y organizacionales. Se definen como registros cuantitativos o cualitativos que representan hechos, comportamientos, transacciones o interacciones generadas por usuarios, clientes o procesos internos.
           br
           br
-          | En el contexto del marketing digital y la gestión del cliente, los datos permiten comprender patrones de comportamiento, niveles de interacción, resultados de campañas y percepción del servicio. Sin un sistema estructurado de datos, la organización opera bajo supuestos y no bajo evidencia verificable. Los datos por sí solos no generan valor estratégico; requieren procesamiento, análisis e interpretación para convertirse en información útil que apoye la toma de decisiones.
+          | En el contexto del <em>marketing</em> digital y la gestión del cliente, los datos permiten comprender patrones de comportamiento, niveles de interacción, resultados de campañas y percepción del servicio. Sin un sistema estructurado de datos, la organización opera bajo supuestos y no bajo evidencia verificable. Los datos por sí solos no generan valor estratégico; requieren procesamiento, análisis e interpretación para convertirse en información útil que apoye la toma de decisiones.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -58,7 +58,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
           img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
-          figcaption Nota. Sena, (2026).
+          figcaption Nota. SENA, (2026).
 
     Separador
 
@@ -70,7 +70,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema1/img_6.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 Los parámetros determinan los criterios bajo los cuales se recolectan, organizan y evalúan los datos dentro de una organización. Establecen límites de calidad, pertinencia y confiabilidad, y permiten asegurar que la información utilizada en los procesos estratégicos sea válida para la toma de decisiones. Sin parámetros definidos, la gestión de datos puede volverse dispersa, imprecisa y poco útil para los objetivos del plan de marketing digital.
+        p.mb-0 Los parámetros determinan los criterios bajo los cuales se recolectan, organizan y evalúan los datos dentro de una organización. Establecen límites de calidad, pertinencia y confiabilidad, y permiten asegurar que la información utilizada en los procesos estratégicos sea válida para la toma de decisiones. Sin parámetros definidos, la gestión de datos puede volverse dispersa, imprecisa y poco útil para los objetivos del plan de <em>marketing</em> digital.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -82,7 +82,7 @@
         .py-4.py-md-5.tarjeta--bg-img.color-acento-contenido-cv(titulo="Relevancia")
           .row.justify-content-center.align-items-center.mb-5
             .col-12.col-lg-9.order-2.order-lg-1
-              p.mb-0 El dato aporta valor al objetivo estratégico y está relacionado con los indicadores definidos en el plan de marketing digital. No todo dato disponible es necesario; solo aquellos que contribuyen a la medición del desempeño y al análisis del cliente.
+              p.mb-0 El dato aporta valor al objetivo estratégico y está relacionado con los indicadores definidos en el plan de <em>marketing</em> digital. No todo dato disponible es necesario; solo aquellos que contribuyen a la medición del desempeño y al análisis del cliente.
             .col-4.col-lg-1.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_8.svg', class="img-fluid")
@@ -129,7 +129,7 @@
           figure
             img(src='@/assets/curso/tema1/img_13.png', class="img-fluid")
         .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
-          p.mb-3 El procesamiento de datos consiste en la transformación de registros brutos en información organizada y estructurada que permita su análisis y posterior toma de decisiones. Este proceso es fundamental en la gestión del marketing digital, ya que convierte métricas aisladas en indicadores estratégicos que orientan la planeación, optimización de campañas y evaluación del desempeño.
+          p.mb-3 El procesamiento de datos consiste en la transformación de registros brutos en información organizada y estructurada que permita su análisis y posterior toma de decisiones. Este proceso es fundamental en la gestión del <em>marketing</em> digital, ya que convierte métricas aisladas en indicadores estratégicos que orientan la planeación, optimización de campañas y evaluación del desempeño.
           p.mb-0 A continuación, se presentan las etapas del procesamiento de datos con su respectiva descripción y ejemplos aplicados al entorno digital.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -189,7 +189,7 @@
         .tarjeta--fondo-img-1.h-100
           .tarjeta--03.mb-3
           h5.text-center.mb-4 Análisis
-          .tarjeta--slider__content.text-center.mb-2 Procesamiento de la información para transformarla en insights claros y útiles.
+          .tarjeta--slider__content.text-center.mb-2 Procesamiento de la información para transformarla en <em>insights</em> claros y útiles.
         .tarjeta--fondo-img-1.h-100
           .tarjeta--04.mb-3
           h5.text-center.mb-4 Explotación
@@ -224,7 +224,7 @@
                 td.text-start Recopilación
                 td.text-start Captura de datos de múltiples fuentes.
                 td.text-start Formularios web, APIs, sensores IoT.
-                td.text-start Encuestas online, registros de compra.
+                td.text-start Encuestas <em>online</em>, registros de compra.
                 td.text-start Obtención de información relevante.
               tr
                 td.text-start Almacenamiento.
@@ -236,18 +236,18 @@
                 td.text-start Análisis.
                 td.text-start Transformación en información útil.
                 td.text-start Power BI, Python, Excel.
-                td.text-start Dashboards de ventas y segmentación.
-                td.text-start Insight para toma de decisiones.
+                td.text-start <em>Dashboards</em> de ventas y segmentación.
+                td.text-start <em>Insight</em> para toma de decisiones.
               tr
                 td.text-start Explotación.
                 td.text-start Aplicación en decisiones estratégicas.
-                td.text-start CRM, dashboards, herramientas BI.
-                td.text-start Ajuste de campañas de marketing.
+                td.text-start CRM, <em>Dashboards</em>, herramientas BI.
+                td.text-start Ajuste de campañas de <em>marketing</em>.
                 td.text-start Optimización de resultados.
               tr
                 td.text-start Depuración.
                 td.text-start Limpieza de datos duplicados o incorrectos.
-                td.text-start Scripts, ETL, validación manual.
+                td.text-start <em>Scripts</em>, ETL, validación manual.
                 td.text-start Eliminación de registros erróneos.
                 td.text-start Calidad y confiabilidad.
                 
@@ -350,7 +350,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p Nota. Sena, (2026).
+              p Nota. SENA, (2026).
             thead
               tr
                 th.col-auto.col-lg-auto Pregunta estratégica
@@ -367,7 +367,7 @@
                 td.text-start Interpretación aislada.
               tr
                 td.text-start ¿Quién utilizará la información?
-                td.text-start Ajustar nivel de detalle
+                td.text-start Ajustar nivel de detalle.
                 td.text-start Desconexión con el usuario.
               tr
                 td.text-start ¿Qué acción podría derivarse?
@@ -399,7 +399,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p Nota. Sena, 2026.
+              p Nota. SENA, (2026).
             thead
               tr
                 th.col-auto.col-lg-auto Elemento

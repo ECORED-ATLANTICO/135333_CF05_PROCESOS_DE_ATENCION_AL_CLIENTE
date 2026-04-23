@@ -64,11 +64,11 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-none d-lg-block", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
           img(src='@/assets/curso/tema3/img_7.svg', class="img-fluid d-block d-lg-none", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
-          figcaption Nota. Sena, 2026.
+          figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
-        p.mb-3 La tasa de conversión (Conversion rate, CR) se calcula como:
+        p.mb-3 La tasa de conversión (<em>Conversion rate</em>, CR) se calcula como:
         .tarjeta.color-acento-contenido-v.tarjeta-formula.p-4
           .d-flex.align-items-center.justify-content-center.fw-bold
             span CR (%) =
@@ -80,8 +80,8 @@
         figure
           img.img-fluid(src='@/assets/curso/tema3/img_8.png', class="img-fluid")
       .col-12.col-lg-3(data-aos="fade-left")
-        p.mb-3 #[strong Ejemplo práctico:] Un sitio de e-commerce recibe 20,000 visitantes al mes y 1,500 realizan compras.
-        .tarjeta.color-acento-contenido-v.tarjeta-formula.p-4
+        p.mb-3 #[strong Ejemplo práctico:] un sitio de <em>e-commerce</em> recibe 20.000 visitantes al mes y 1.500 realizan compras.
+        .tarjeta.color-acento-contenido-v.tarjeta-formula.p-4.p-lg-3
           .d-flex.align-items-center.justify-content-center.fw-bold
             span CR =
             .fraccion.linea-terciaria.mx-2
@@ -120,13 +120,13 @@
               tr
                 td.text-start Tasa de conversión.
                 td.text-start % de visitantes que realizan la acción deseada.
-                td.text-start 7,5 % de visitantes compran.
-                td.text-start Mejorar landing page y experiencia de usuario.
+                td.text-start 7.5 % de visitantes compran.
+                td.text-start Mejorar <em>landing page</em> y experiencia de usuario.
               tr
-                td.text-start Leads generados.
+                td.text-start <em>Leads</em> generados.
                 td.text-start Número de registros de clientes potenciales.
-                td.text-start 300 leads capturados por formulario.
-                td.text-start Campañas de seguimiento y nurturing.
+                td.text-start 300 <em>leads</em> capturados por formulario.
+                td.text-start Campañas de seguimiento y <em>nurturing</em>.
               tr
                 td.text-start Carrito abandonado.
                 td.text-start % de usuarios que no completan la compra.
@@ -135,7 +135,7 @@
               tr
                 td.text-start Descargas.
                 td.text-start Número de recursos descargados.
-                td.text-start 500 ebooks descargados.
+                td.text-start 500 <em>e-books</em> descargados.
                 td.text-start Optimizar contenido gratuito para captación.
 
     .row.justify-content-center.align-items-center.mb-0
@@ -143,21 +143,21 @@
         .tarjeta.color-terciario-cv.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-7.order-2.order-lg-1(data-aos="zoom-in-right")
-              p.mb-3(data-aos="zoom-in-right") Ejemplo práctico integral. Una empresa de software analiza tráfico y conversión:
+              p.mb-3(data-aos="zoom-in-right") Ejemplo práctico integral. Una empresa de <em>software</em> analiza tráfico y conversión:
               ul.list-unstyled.mb-3.ps-4
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
                   span 15.000 visitantes orgánicos, 5.000 pagados.
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
-                  span 2.000 registros en formularios (leads).
+                  span 2.000 registros en formularios (<em>leads</em>).
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
-                  span 1,000 descargas del ebook promocional.
+                  span 1.000 descargas del <em>e-book</em> promocional.
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
                   span Tasa de conversión global: 10%.
-              p.mb-3(data-aos="zoom-in-right") Con esta información, ajusta campañas pagadas, mejora páginas de aterrizaje y optimiza la oferta de contenido gratuito para aumentar la conversión de visitantes en leads y clientes.
+              p.mb-3(data-aos="zoom-in-right") Con esta información, ajusta campañas pagadas, mejora páginas de aterrizaje y optimiza la oferta de contenido gratuito para aumentar la conversión de visitantes en <em>leads</em> y clientes.
             .col-10.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema3/img_10.png', class="img-fluid")

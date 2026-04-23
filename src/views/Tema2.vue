@@ -27,7 +27,7 @@
         figure
           img(src='@/assets/curso/tema2/img_2.png', class="img-fluid")
       .col-12.col-lg-9.mb-0(data-aos="zoom-in-right")
-        p.mb-0 La medición consiste en determinar de manera objetiva los resultados obtenidos frente a los objetivos establecidos. Los KPI proporcionan un marco para cuantificar el desempeño y comparar resultados históricos, metas planificadas o benchmarks del sector. Su uso permite evaluar la efectividad de campañas digitales, procesos internos, niveles de satisfacción del cliente y otros factores estratégicos de la organización. Además, facilitan la identificación de desviaciones y la implementación de acciones correctivas oportunas, consolidando un enfoque basado en datos y resultados. Ejemplo: medir el número de visitantes únicos de un sitio web o la tasa de conversión de una campaña de marketing digital.
+        p.mb-0 La medición consiste en determinar de manera objetiva los resultados obtenidos frente a los objetivos establecidos. Los KPI proporcionan un marco para cuantificar el desempeño y comparar resultados históricos, metas planificadas o benchmarks del sector. Su uso permite evaluar la efectividad de campañas digitales, procesos internos, niveles de satisfacción del cliente y otros factores estratégicos de la organización. Además, facilitan la identificación de desviaciones y la implementación de acciones correctivas oportunas, consolidando un enfoque basado en datos y resultados. Ejemplo: medir el número de visitantes únicos de un sitio web o la tasa de conversión de una campaña de <em>marketing</em> digital.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -131,7 +131,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img_9.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En el ámbito web, los KPI pueden clasificarse en diferentes categorías según el tipo de resultado que evalúan. Los KPI de tráfico miden el alcance del sitio, incluyendo indicadores como visitantes únicos, páginas vistas y tasa de rebote. Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de leads, compras o suscripciones. Finalmente, los KPI de rendimiento de campañas permiten medir la eficacia de acciones publicitarias mediante indicadores como el CTR (Click through rate) y el retorno de inversión (ROI) digital.
+        p.mb-0 En el ámbito web, los KPI pueden clasificarse en diferentes categorías según el tipo de resultado que evalúan. Los KPI de tráfico miden el alcance del sitio, incluyendo indicadores como visitantes únicos, páginas vistas y tasa de rebote. Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de <em>leads</em>, compras o suscripciones. Finalmente, los KPI de rendimiento de campañas permiten medir la eficacia de acciones publicitarias mediante indicadores como el CTR (Click through rate) y el retorno de inversión (ROI) digital.
        
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.mb-3
@@ -141,7 +141,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
           img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
-          figcaption Nota. Sena, 2026.
+          figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -213,7 +213,12 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
         p.mb-3 El valor del reporte radica en su capacidad de transformar números en argumentos. Cuando el documento solo presenta cifras, no aporta comprensión estratégica. En cambio, cuando conecta resultados con decisiones futuras, se convierte en herramienta de planificación. 
-        p.mb-0 Componentes de un reporte con enfoque analítico
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+        .subtitulo-destacado.mb-5
+          .subtitulo-destacado__fondo
+            h4.subtitulo-destacado__texto Componentes de un reporte con enfoque analítico
 
     .row.justify-content-center.align-items-center.mb-3
       .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -233,11 +238,11 @@
             .tarjeta--fondo-img-1.h-100
               .tarjeta--08.mb-3
               h5.text-center.mb-4  Interpretación
-              .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica
+              .tarjeta--slider__content.text-center.mb-2 Analizar causas y efectos. Impacto en la toma de decisiones. Claridad estratégica.
             .tarjeta--fondo-img-1.h-100
               .tarjeta--09.mb-3
               h5.text-center.mb-4  Recomendaciones
-              .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables Impacto en la toma de decisiones. Orientación futura.
+              .tarjeta--slider__content.text-center.mb-2 Proponer acciones viables. Impacto en la toma de decisiones. Orientación futura.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
@@ -294,7 +299,12 @@
             img(src="@/assets/curso/tema2/img_21.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
           p.mb-0 La metodología de gestión de datos es el conjunto de pasos sistemáticos que permiten transformar información cruda en conocimiento estratégico. Su aplicación asegura que los datos sean fiables, pertinentes y útiles para la toma de decisiones. Este proceso se articula en fases que van desde la definición de objetivos hasta la implementación de mejoras continuas. Una metodología estructurada permite optimizar recursos y convertir los datos en un activo estratégico para la organización.
-          p.mb-0 Metodología para la gestión de datos
+          
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
+        .subtitulo-destacado.mb-5
+          .subtitulo-destacado__fondo
+            h4.subtitulo-destacado__texto Metodología para la gestión de datos
 
     .row.justify-content-center.align-items-start.mb-5
       .col-12.col-lg-7.order-2.order-lg-1.mb-3(data-aos="zoom-in-right")

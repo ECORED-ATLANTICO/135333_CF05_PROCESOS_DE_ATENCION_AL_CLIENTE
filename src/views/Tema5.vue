@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/tema5/img_1.png', class="img-fluid")
       .col-12.col-lg-6.mb-0
-        p.mb-0(data-aos="zoom-in-right") El tratamiento de datos personales es fundamental para la gestión digital estratégica, porque asegura la protección legal y ética de la información, la confianza del cliente y la eficiencia en la toma de decisiones. Su correcta aplicación permite a las organizaciones analizar patrones de comportamiento, optimizar estrategias de marketing, y garantizar cumplimiento normativo, minimizando riesgos legales y reputacionales.
+        p.mb-0(data-aos="zoom-in-right") El tratamiento de datos personales es fundamental para la gestión digital estratégica, porque asegura la protección legal y ética de la información, la confianza del cliente y la eficiencia en la toma de decisiones. Su correcta aplicación permite a las organizaciones analizar patrones de comportamiento, optimizar estrategias de <em>marketing</em>, y garantizar cumplimiento normativo, minimizando riesgos legales y reputacionales.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-12.mb-0
@@ -33,12 +33,12 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
           img(src='@/assets/curso/tema5/img_3.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta todas las actividades relacionadas con el tratamiento de datos personales. Texto de la figura: Tratamiento de datos personales.  Conjunto de operaciones sobre información que identifica a una persona. Recolección: captación mediante formularios, encuestas o registros. Almacenamiento: conservación segura en bases de datos físicas o digitales. Uso: análisis para fines estratégicos, operativos o de marketing. Transferencia: envío autorizado a terceros, nacionales o internacionales. Supresión: eliminación de datos cumplida su finalidad o por solicitud del titular.").mb-5
-          figcaption Nota. Sena; 2026.
+          figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
         .cajon.color-terciario.p-4
-          p.mb-0 Esto tiene un alto grado de importancia estratégica, pues permite personalizar experiencias digitales, aumentando satisfacción y fidelización, a su vez facilita la segmentación avanzada, optimizando campañas de marketing.
+          p.mb-0 Esto tiene un alto grado de importancia estratégica, pues permite personalizar experiencias digitales, aumentando satisfacción y fidelización, a su vez facilita la segmentación avanzada, optimizando campañas de <em>marketing</em>.
 
 
     .row.justify-content-center.align-items-center.mb-3
@@ -81,17 +81,17 @@
               tr
                 td.text-start Finalidad.
                 td.text-start Uso de los datos únicamente para objetivos específicos y comunicados al titular.
-                td.text-start Analizar métricas de marketing sin fines distintos a los declarados.
+                td.text-start Analizar métricas de <em>marketing</em> sin fines distintos a los declarados.
                 td.text-start Usar datos para segmentación de promociones, no para venta de terceros.
               tr
                 td.text-start Transparencia.
                 td.text-start Información clara al titular sobre uso, finalidad y tratamiento de sus datos.
-                td.text-start Políticas de privacidad visibles en la web y avisos de cookies detallados.
+                td.text-start Políticas de privacidad visibles en la web y avisos de <em>cookies</em> detallados.
                 td.text-start Informar al cliente cómo se usarán sus datos en campañas digitales.
               tr
                 td.text-start Seguridad.
                 td.text-start Protección de la información frente a accesos no autorizados, pérdida o daño.
-                td.text-start Encriptación, autenticación de usuarios, firewalls y respaldo periódico de bases de datos.
+                td.text-start Encriptación, autenticación de usuarios, <em>firewalls</em> y respaldo periódico de bases de datos.
                 td.text-start Implementar monitoreo de accesos y alertas de intrusión.
               tr
                 td.text-start Minimización.
@@ -135,15 +135,15 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Bases de datos
             p.mb-0 Almacenan información estructurada de clientes, proveedores y empleados.
-            p.mb-0 #[strong Ejemplo práctico:] CRM con datos de clientes activos y prospectos.
+            p.mb-0 #[strong Ejemplo práctico.] CRM con datos de clientes activos y prospectos.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_7.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5 Logs de actividad
+            h5 <em>Logs</em> de actividad
             p.mb-0 Registro cronológico de interacciones digitales, transacciones y accesos.
-            p.mb-0 #[strong Ejemplo práctico:] Historial de clics y descargas en la web, accesos a plataformas internas.
+            p.mb-0 #[strong Ejemplo práctico.] Historial de clics y descargas en la web, accesos a plataformas internas.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_8.png', class="img-fluid")
@@ -151,7 +151,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Formularios y encuestas
             p.mb-0 Capturan información directamente del titular con fines específicos.
-            p.mb-0 #[strong Ejemplo práctico:] Encuestas de satisfacción con consentimiento informado.
+            p.mb-0 #[strong Ejemplo práctico.] Encuestas de satisfacción con consentimiento informado.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_9.png', class="img-fluid")
@@ -159,7 +159,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Consentimientos
             p.mb-0 Documentación que prueba que el titular autorizó el tratamiento de sus datos.
-            p.mb-0 #[strong Ejemplo práctico:] Archivos digitales que registran aceptación de políticas de privacidad.
+            p.mb-0 #[strong Ejemplo práctico.] Archivos digitales que registran aceptación de políticas de privacidad.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_10.png', class="img-fluid")
@@ -167,7 +167,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Auditorías internas
             p.mb-0 Registro de verificaciones periódicas para asegurar cumplimiento de políticas y normatividad.
-            p.mb-0 #[strong Ejemplo práctico:] Revisiones trimestrales de accesos, permisos y calidad de bases de datos.
+            p.mb-0 #[strong Ejemplo práctico.] Revisiones trimestrales de accesos, permisos y calidad de bases de datos.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_11.png', class="img-fluid")
@@ -175,7 +175,7 @@
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Reportes de incidentes
             p.mb-0 Registro de eventos de seguridad o vulneraciones de datos personales.
-            p.mb-0 #[strong Ejemplo práctico:] Informe de brechas de seguridad y medidas correctivas implementadas
+            p.mb-0 #[strong Ejemplo práctico.] Informe de brechas de seguridad y medidas correctivas implementadas.
           .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/tema5/img_12.png', class="img-fluid")
@@ -205,19 +205,19 @@
               .tarjeta--fondo-img-1.h-100
                 .tarjeta--11.mb-3
                 h5.text-center.mb-4 Equidad
-                .tarjeta--slider__content.text-center.mb-2 Evitar sesgos o discriminación en análisis y segmentaciones
+                .tarjeta--slider__content.text-center.mb-2 Evitar sesgos o discriminación en análisis y segmentaciones.
               .tarjeta--fondo-img-1.h-100
                 .tarjeta--12.mb-3
                 h5.text-center.mb-4 Responsabilidad
-                .tarjeta--slider__content.text-center.mb-2 documentar decisiones basadas en datos
+                .tarjeta--slider__content.text-center.mb-2 Documentar decisiones basadas en datos.
               .tarjeta--fondo-img-1.h-100
                 .tarjeta--13.mb-3
                 h5.text-center.mb-4 Transparencia analítica
-                .tarjeta--slider__content.text-center.mb-2 resultados claros, contextualizados y verificables.
+                .tarjeta--slider__content.text-center.mb-2 Resultados claros, contextualizados y verificables.
               .tarjeta--fondo-img-1.h-100
                 .tarjeta--14.mb-3
                 h5.text-center.mb-4 Seguridad proactiva
-                .tarjeta--slider__content.text-center.mb-2 medidas preventivas contra filtraciones y pérdidas 
+                .tarjeta--slider__content.text-center.mb-2 Medidas preventivas contra filtraciones y pérdidas. 
         .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_19.png', class="img-fluid") 
@@ -266,7 +266,7 @@
               tr
                 td.text-start Externa.
                 td.text-start Obtenida de fuentes confiables o públicas.
-                td.text-start Listados de leads verificados por proveedores.
+                td.text-start Listados de <em>leads</em> verificados por proveedores.
                 td.text-start Ampliación de alcance y segmentación de mercado.
               tr
                 td.text-start Operativa.
@@ -277,7 +277,7 @@
                 td.text-start Estratégica
                 td.text-start Orientada al análisis y toma de decisiones.
                 td.text-start Segmentación de clientes según hábitos de compra.
-                td.text-start Optimización de campañas y estrategias de marketing.
+                td.text-start Optimización de campañas y estrategias de <em>marketing</em>.
               tr
                 td.text-start Temporal.
                 td.text-start Información con vigencia limitada para análisis.
@@ -341,12 +341,12 @@
                 td.text-start Gestión de historial crediticio y reportes financieros con autorización.
                 td.text-start Obligatorio para entidades financieras.
               tr
-                td.text-start Ley 1580 de 2012 (habeas data sector salud).
+                td.text-start Ley 1580 de 2012 (<em>habeas data</em> sector salud).
                 td.text-start Protege datos médicos y de salud de los titulares.
                 td.text-start Manejo de historias clínicas, datos de pacientes y resultados médicos con autorización explícita.
                 td.text-start Obligatorio para entidades de salud.
               tr
-                td.text-start ISO/IEC 27001.
+                td.text-start ISO / IEC 27001.
                 td.text-start Norma internacional para gestión de seguridad de la información.
                 td.text-start Aplicación de políticas de seguridad, control de accesos, cifrado de información sensible.
                 td.text-start Recomendado para certificación empresarial.

@@ -316,7 +316,7 @@ export default {
         {
           id: 19,
           texto:
-            'Los tableros de control (dashboards) permiten monitorear métricas clave en tiempo real de manera visual.',
+            'Los tableros de control (<em>dashboards</em>) permiten monitorear métricas clave en tiempo real de manera visual.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

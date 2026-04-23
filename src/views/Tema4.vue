@@ -53,7 +53,7 @@
         .tabla-a.mb-5(data-aos="flip-left")
           table
             caption 
-              p Nota. Sena, 2026.
+              p Nota. SENA, (2026).
             thead
               tr
                 th.col-auto.col-lg-auto Parámetro
@@ -62,7 +62,7 @@
                 th.col-auto.col-lg-auto Acción estratégica
             tbody
               tr
-                td.text-start Exactitud
+                td.text-start Exactitud.
                 td.text-start Nivel en que los datos reflejan la realidad o hechos correctamente.
                 td.text-start % de registros sin errores.
                 td.text-start Depurar bases de datos y validar fuentes.
