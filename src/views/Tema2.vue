@@ -270,17 +270,17 @@
         p.mb-0(data-aos="zoom-in-right") En entornos digitales dinámicos, la rapidez con la que se interpreta un indicador puede definir la diferencia entre reaccionar tarde o anticiparse al cambio. Por ello, integrar visualización, seguimiento y narrativa analítica es fundamental para consolidar una gestión basada en evidencia.
 
     .cita-decorada
-      blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.rounded-0.rounded-tr-5.p-5
+      blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.rounded-0.rounded-tr-5.p-4
         .row.justify-content-center.align-items-center
           .col-4.col-lg-4.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema2/img_20.png', class="cita-decorada__imagen-flotante-4")
           .col-12.col-lg-8
-            p.cita-decorada__texto.mb-1.p-3 Este es un ejemplo de introducción para un informe estratégico que analiza el desempeño digital de Nativa Verde S.A.S. durante el segundo trimestre de 2026 en el contexto colombiano. Se muestran indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización. El objetivo es ejemplificar cómo presentar hallazgos que fundamenten decisiones estratégicas orientadas a mejorar la rentabilidad y el retorno de inversión en canales digitales:
-            .p-3
+            p.cita-decorada__texto.mb-1.p-1 Este es un ejemplo de introducción para un informe estratégico que analiza el desempeño digital de Nativa Verde S.A.S. durante el segundo trimestre de 2026 en el contexto colombiano. Se muestran indicadores clave, comportamiento del cliente y eficiencia del embudo digital para ilustrar cómo identificar oportunidades de optimización. El objetivo es ejemplificar cómo presentar hallazgos que fundamenten decisiones estratégicas orientadas a mejorar la rentabilidad y el retorno de inversión en canales digitales:
+              p.mb-3 Para acceder al material, dar clic en el siguiente enlace:
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
 
-                span Ver pdf
+                span Enlace Anexo 1
                 i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-0
