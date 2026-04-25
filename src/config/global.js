@@ -128,7 +128,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA5_135333_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -230,7 +230,7 @@ export default {
     },
 
     {
-      termino: '<em>KPI</em>',
+      termino: 'KPI',
       significado:
         'Indicador clave de desempeño alineado con objetivos estratégicos.',
     },
@@ -260,7 +260,7 @@ export default {
     },
 
     {
-      termino: '<em>ROI</em>',
+      termino: 'ROI',
       significado:
         'Retorno sobre la inversión que mide la ganancia obtenida frente al gasto realizado.',
     },

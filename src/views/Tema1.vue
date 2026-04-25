@@ -297,7 +297,7 @@
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
                   figure
                     img(src='@/assets/curso/tema1/img_24.png', class="img-fluid") 
-                p.mb-0 Google Search Console, para seguimiento de rendimiento en buscadores
+                p.mb-0 Google Search Console, para seguimiento de rendimiento en buscadores.
             .col-12.col-lg-6.mb-lg-0.mb-4(data-aos="zoom-in-right")
               .tarjeta-numerada.color-primario-v.h-100
                 .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
@@ -378,7 +378,7 @@
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
         .subtitulo-destacado.mb-5
           .subtitulo-destacado__fondo
-            h4.subtitulo-destacado__texto El tablero de contro
+            h4.subtitulo-destacado__texto El tablero de control
       .col-12.col-lg-10.mb-0
         p.mb-0(data-aos="zoom-in-right") El tablero de control no debe concebirse como un repositorio permanente de métricas, sino como un mecanismo de seguimiento que permita detectar variaciones relevantes. Su función principal es señalar desviaciones respecto a lo esperado.
 
@@ -632,7 +632,7 @@
                 td.text-start Medición de resultados.
                 td.text-start Mejora continua.
       .col-12.col-lg-10.mb-3
-        p.mb-0(data-aos="zoom-in-right") Un componente fundamental es la cultura organizacional orientada a datos. La verdadera transformación ocurre cuando el análisis no depende únicamente de un área técnica, sino que permea todos los niveles jerárquicos. En una cultura data-driven:
+        p.mb-0(data-aos="zoom-in-right") Un componente fundamental es la cultura organizacional orientada a datos. La verdadera transformación ocurre cuando el análisis no depende únicamente de un área técnica, sino que permea todos los niveles jerárquicos. En una cultura <em>data-driven</em>:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-3(data-aos="zoom-in-right")

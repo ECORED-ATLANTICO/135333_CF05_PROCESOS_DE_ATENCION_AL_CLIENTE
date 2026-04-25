@@ -27,7 +27,7 @@
         figure
           img(src='@/assets/curso/tema2/img_2.png', class="img-fluid")
       .col-12.col-lg-9.mb-0(data-aos="zoom-in-right")
-        p.mb-0 La medición consiste en determinar de manera objetiva los resultados obtenidos frente a los objetivos establecidos. Los KPI proporcionan un marco para cuantificar el desempeño y comparar resultados históricos, metas planificadas o benchmarks del sector. Su uso permite evaluar la efectividad de campañas digitales, procesos internos, niveles de satisfacción del cliente y otros factores estratégicos de la organización. Además, facilitan la identificación de desviaciones y la implementación de acciones correctivas oportunas, consolidando un enfoque basado en datos y resultados. Ejemplo: medir el número de visitantes únicos de un sitio web o la tasa de conversión de una campaña de <em>marketing</em> digital.
+        p.mb-0 La medición consiste en determinar de manera objetiva los resultados obtenidos frente a los objetivos establecidos. Los KPI proporcionan un marco para cuantificar el desempeño y comparar resultados históricos, metas planificadas o <em>benchmarks</em> del sector. Su uso permite evaluar la efectividad de campañas digitales, procesos internos, niveles de satisfacción del cliente y otros factores estratégicos de la organización. Además, facilitan la identificación de desviaciones y la implementación de acciones correctivas oportunas, consolidando un enfoque basado en datos y resultados. Ejemplo: medir el número de visitantes únicos de un sitio web o la tasa de conversión de una campaña de <em>marketing</em> digital.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -52,7 +52,7 @@
                   img(src='@/assets/curso/tema2/img_4.svg', class="img-fluid")
               .col-12.col-lg-12.text-center.mb-0
                 h5.mb-3 Nivel estratégico
-                p.mb-0 Orientado a los objetivos generales de la organización, como aumento de ingresos, participación de mercado o rentabilidad
+                p.mb-0 Orientado a los objetivos generales de la organización, como aumento de ingresos, participación de mercado o rentabilidad.
         .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0
           .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
             .row.justify-content-center.align-items-center.mb-3

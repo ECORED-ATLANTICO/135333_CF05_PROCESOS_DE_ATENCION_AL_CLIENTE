@@ -68,7 +68,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
-        p.mb-3 La tasa de conversión (<em>Conversion rate</em>, CR) se calcula como:
+        p.mb-3 La tasa de conversión (<em>Conversion Rate</em>, CR) se calcula como:
         .tarjeta.color-acento-contenido-v.tarjeta-formula.p-4
           .d-flex.align-items-center.justify-content-center.fw-bold
             span CR (%) =
@@ -94,7 +94,7 @@
         figure
           img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
       .col-12.col-lg-7.mb-0
-        p.mb-0(data-aos="zoom-in-right") Esto indica que el 7,5 % del tráfico se convierte en ventas. La empresa puede trabajar en optimizar páginas de productos, promociones y UX para aumentar esta tasa.
+        p.mb-0(data-aos="zoom-in-right") Esto indica que el 7.5 % del tráfico se convierte en ventas. La empresa puede trabajar en optimizar páginas de productos, promociones y UX para aumentar esta tasa.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.mb-0(data-aos="zoom-in-right")
@@ -156,7 +156,7 @@
                   span 1.000 descargas del <em>e-book</em> promocional.
                 li.d-flex.align-items-start.mb-0
                   i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
-                  span Tasa de conversión global: 10%.
+                  span Tasa de conversión global: 10 %.
               p.mb-3(data-aos="zoom-in-right") Con esta información, ajusta campañas pagadas, mejora páginas de aterrizaje y optimiza la oferta de contenido gratuito para aumentar la conversión de visitantes en <em>leads</em> y clientes.
             .col-10.col-lg-5.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure

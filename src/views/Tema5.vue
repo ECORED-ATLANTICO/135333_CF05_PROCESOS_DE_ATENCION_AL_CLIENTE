@@ -274,7 +274,7 @@
                 td.text-start Registro de ventas, pagos y devoluciones.
                 td.text-start Mejora de eficiencia operativa y control de procesos.
               tr
-                td.text-start Estratégica
+                td.text-start Estratégica.
                 td.text-start Orientada al análisis y toma de decisiones.
                 td.text-start Segmentación de clientes según hábitos de compra.
                 td.text-start Optimización de campañas y estrategias de <em>marketing</em>.
