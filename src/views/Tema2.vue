@@ -152,7 +152,7 @@
                 p.mb-4 Escucha el pódcast <strong>“Charlas que venden”</strong> y su episodio
                 TarjetaAudio.color-primario-o.mb-0(
                   texto="<h4 class='mb-0'>Métricas web</h4>"
-                  :audio="require('@/assets/curso/podcast/PODCAST2_Cliente_digital_métricas_clave.wav')"
+                  :audio="require('@/assets/curso/podcast/PODCAST2_Cliente_digital_metricas_clave.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = true"
                   style="border: none !important; padding: 0 !important; background: transparent !important;"
                 )
