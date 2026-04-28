@@ -266,7 +266,7 @@
                     p.mb-0.fw-bold Dar clic en el enlace de este video para continuar con la explicación del ciclo de vida del dato y comprender de manera más amplia cómo se implementa la gestión de datos a lo largo de sus diferentes fases: 
                   .col-12.col-sm-auto.pe-4
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=shdBRha_fi4" target="_blank")
-                      span Ver video
+                      span Abrir video
                       i.fas.fa-file-download.ms-2
 
       .row.justify-content-center.align-items-center.mb-0
@@ -671,10 +671,10 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.mb-4.mb-lg-0
-                p.mb-4 Escucha el podcast <strong>“Charlas que venden”</strong> y su episodio
+                p.mb-4 Escucha el pódcast <strong>“Charlas que venden”</strong> y su episodio
                 TarjetaAudio.color-primario-o.mb-0(
                   texto="<h4 class='mb-0'>Decisiones y rentabilidad digital</h4>"
-                  :audio="require('@/assets/curso/tema1/img_41.png')"
+                  :audio="require('@/assets/curso/podcast/PODCAST1_Decisiones_rentabilidad_digital.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = true"
                   style="border: none !important; padding: 0 !important; background: transparent !important;"
                 )
@@ -682,7 +682,7 @@
               .col-8.col-lg-4.d-none.d-lg-block.position-relative
                 figure
                   img(src='@/assets/curso/tema1/img_41.png', class="cita-decorada__imagen-flotante-3")
-
+    
 </template>
 
 <script>

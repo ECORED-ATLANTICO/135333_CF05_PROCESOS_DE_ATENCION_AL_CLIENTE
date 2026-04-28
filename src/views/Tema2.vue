@@ -131,7 +131,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img_9.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En el ámbito web, los KPI pueden clasificarse en diferentes categorías según el tipo de resultado que evalúan. Los KPI de tráfico miden el alcance del sitio, incluyendo indicadores como visitantes únicos, páginas vistas y tasa de rebote. Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de <em>leads</em>, compras o suscripciones. Finalmente, los KPI de rendimiento de campañas permiten medir la eficacia de acciones publicitarias mediante indicadores como el CTR (Click through rate) y el retorno de inversión (ROI) digital.
+        p.mb-0 En el ámbito web, los KPI pueden clasificarse en diferentes categorías según el tipo de resultado que evalúan. Los KPI de tráfico miden el alcance del sitio, incluyendo indicadores como visitantes únicos, páginas vistas y tasa de rebote. Los KPI de interacción analizan el nivel de participación del usuario, considerando métricas como clics, tiempo de permanencia en la página y descargas de contenido. Por su parte, los KPI de conversión evalúan la efectividad en la generación de acciones de valor, como la captación de <em>leads</em>, compras o suscripciones. Finalmente, los KPI de rendimiento de campañas permiten medir la eficacia de acciones publicitarias mediante indicadores como el CTR (Click Through Rate) y el retorno de inversión (ROI) digital.
        
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.mb-3
@@ -149,10 +149,10 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.mb-4.mb-lg-0
-                p.mb-4 Escucha el podcast <strong>“Charlas que venden”</strong> y su episodio
+                p.mb-4 Escucha el pódcast <strong>“Charlas que venden”</strong> y su episodio
                 TarjetaAudio.color-primario-o.mb-0(
                   texto="<h4 class='mb-0'>Métricas web</h4>"
-                  :audio="require('@/assets/curso/tema1/img_41.png')"
+                  :audio="require('@/assets/curso/podcast/PODCAST2_Cliente_digital_métricas_clave.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = true"
                   style="border: none !important; padding: 0 !important; background: transparent !important;"
                 )
@@ -174,7 +174,7 @@
                   p.mb-0.fw-bold Puede acceder al material a través del siguiente enlace disponible en YouTube, el cual complementa los contenidos abordados, ofreciendo explicaciones y ejemplos prácticos que fortalecen la comprensión del tema: 
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hq18b03whBs" target="_blank")
-                    span Ver video
+                    span Abrir video
                     i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-3
