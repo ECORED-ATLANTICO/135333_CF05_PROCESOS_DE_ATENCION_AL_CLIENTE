@@ -139,8 +139,8 @@
           h5 Figura 2.
           |    Tipos de KPI web
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
-          img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura 2 muestra los tipos de KPI web. Texto de la figura. Tipos de KPI web KPI de tráfico: visitantes únicos, páginas vistas, tasa de rebote. KPI de interacción: clics, tiempo en página, descargas de contenido. KPI de conversión: número de leads, compras, suscripciones. KPI de rendimiento de campañas: CTR (Click through rate), ROI digital.").mb-5
+          img(src='@/assets/curso/tema2/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura 2 describe los tipos de KPI web. En el centro se destaca el concepto principal y alrededor se presentan cuatro tipos de indicadores. El KPI de tráfico mide visitantes únicos, páginas vistas y tasa de rebote. El KPI de interacción evalúa clics, tiempo en página y descargas de contenido. El KPI de conversión incluye número de leads, compras y suscripciones. El KPI de rendimiento de campañas analiza el CTR (Click Through Rate) y el ROI digital. A la derecha aparece una ilustración de una persona observando paneles con gráficos y estadísticas digitales.").mb-5
+          img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura 2 describe los tipos de KPI web. En el centro se destaca el concepto principal y alrededor se presentan cuatro tipos de indicadores. El KPI de tráfico mide visitantes únicos, páginas vistas y tasa de rebote. El KPI de interacción evalúa clics, tiempo en página y descargas de contenido. El KPI de conversión incluye número de leads, compras y suscripciones. El KPI de rendimiento de campañas analiza el CTR (Click Through Rate) y el ROI digital. A la derecha aparece una ilustración de una persona observando paneles con gráficos y estadísticas digitales.").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
@@ -151,7 +151,7 @@
               .col-12.col-lg-8.mb-4.mb-lg-0
                 p.mb-4 Escucha el pódcast <strong>“Charlas que venden”</strong> y su episodio
                 TarjetaAudio.color-primario-o.mb-0(
-                  texto="<h4 class='mb-0'>Métricas web</h4>"
+                  texto="<h4 class='mb-0'>Cliente digital y métricas clave</h4>"
                   :audio="require('@/assets/curso/podcast/PODCAST2_Cliente_digital_metricas_clave.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = true"
                   style="border: none !important; padding: 0 !important; background: transparent !important;"
@@ -266,7 +266,7 @@
               i.fa-solid.fa-check.me-2.flex-shrink-0(style="color:#21C9B8; font-size: 15px; line-height: 1.5;").mb-0
               span Precisión en interpretación.
       .col-12.col-lg-6
-        p.mb-3(data-aos="zoom-in-right") La visualización estratégica no consiste en producir gráficos atractivos, sino en facilitar comprensión significativa. Cuando se diseña con criterio analítico, se convierte en un instrumento que conecta información con acción.
+        p.mb-3(data-aos="zoom-in-right") La visualización estratégica no consiste en producir gráficos atractivos, sino en facilitar la comprensión significativa. Cuando se diseña con criterio analítico, se convierte en un instrumento que conecta información con acción.
         p.mb-0(data-aos="zoom-in-right") En entornos digitales dinámicos, la rapidez con la que se interpreta un indicador puede definir la diferencia entre reaccionar tarde o anticiparse al cambio. Por ello, integrar visualización, seguimiento y narrativa analítica es fundamental para consolidar una gestión basada en evidencia.
 
     .cita-decorada

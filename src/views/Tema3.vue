@@ -62,8 +62,8 @@
           h5 Figura 3.
           |    Tipos de tráfico 
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-none d-lg-block", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
-          img(src='@/assets/curso/tema3/img_7.svg', class="img-fluid d-block d-lg-none", alt="La figura 3 muestra los cuatro tipos  de tráfico web. Texto de la figura: Tipos de tráficos: Tráfico orgánico: visitantes que llegan desde buscadores sin pago. Tráfico pagado: visitantes obtenidos mediante anuncios (SEM, redes sociales). Tráfico directo: usuarios que ingresan directamente escribiendo la URL. Tráfico referido: visitantes que llegan desde otros sitios web o enlaces externos.").mb-5
+          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-none d-lg-block", alt="Figura sobre tipos de tráfico web. Incluye tráfico orgánico desde buscadores sin pago, tráfico pagado mediante anuncios, tráfico directo al escribir la URL y tráfico referido desde otros sitios web o enlaces externos.").mb-5
+          img(src='@/assets/curso/tema3/img_7.svg', class="img-fluid d-block d-lg-none", alt="Figura sobre tipos de tráfico web. Incluye tráfico orgánico desde buscadores sin pago, tráfico pagado mediante anuncios, tráfico directo al escribir la URL y tráfico referido desde otros sitios web o enlaces externos.").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-4

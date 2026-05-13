@@ -56,8 +56,8 @@
           h5 Figura 1.
           |    Clasificación de los datos
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
-          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra la clasificación de los datos de acuerdo a su naturaleza, su origen y su finalidad. Texto de la grafica Clasificación de los datos Por naturaleza: Cuantitativos (números). Cualitativos (opiniones). Por origen: Primarios (propios). Secundarios (externos). Por finalidad: Operativos (procesos). Estratégicos (decisiones).Relacionales (interacción).").mb-5
+          img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid d-none d-lg-block", alt="La figura 1 describe la clasificación de los datos, la cual presenta tres categorías principales conectadas desde un encabezado central: la primera clasificación es “por naturaleza”, que incluye datos cuantitativos (números) y cualitativos (opiniones), la segunda es “por origen”, que comprende datos primarios (propios) y secundarios (externos), la tercera es “por finalidad”, que agrupa datos operativos (procesos), estratégicos (decisiones) y relacionales (interacción).").mb-5
+          img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid d-block d-lg-none", alt="La figura 1 describe la clasificación de los datos, la cual presenta tres categorías principales conectadas desde un encabezado central: la primera clasificación es “por naturaleza”, que incluye datos cuantitativos (números) y cualitativos (opiniones), la segunda es “por origen”, que comprende datos primarios (propios) y secundarios (externos), la tercera es “por finalidad”, que agrupa datos operativos (procesos), estratégicos (decisiones) y relacionales (interacción).").mb-5
           figcaption Nota. SENA, (2026).
 
     Separador
@@ -185,7 +185,7 @@
         .tarjeta--fondo-img-1.h-100
           .tarjeta--02.mb-3
           h5.text-center.mb-4 Almacenamiento
-          .tarjeta--slider__content.text-center.mb-2 Los datos se guardan en sistemas seguros (bases de datos, nube) manteniendo integridad y accesibilidad.
+          .tarjeta--slider__content.text-center.mb-2 Los datos se guardan en sistemas seguros (bases de datos, nube), manteniendo integridad y accesibilidad.
         .tarjeta--fondo-img-1.h-100
           .tarjeta--03.mb-3
           h5.text-center.mb-4 Análisis
@@ -387,7 +387,7 @@
         figure
           img(src='@/assets/curso/tema1/img_28.png', class="img-fluid")
       .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
-        p.mb-3 Un tablero eficaz concentra indicadores estratégicos y facilita comparación temporal. Cuando está correctamente diseñado, permite responder de manera casi inmediata si el desempeño se mantiene estable o requiere intervención.
+        p.mb-3 Un tablero eficaz concentra indicadores estratégicos y facilita la comparación temporal. Cuando está correctamente diseñado, permite responder de manera casi inmediata si el desempeño se mantiene estable o requiere intervención.
         .tarjeta.color-acento-botones-cv.p-4.rounded-0.mb-3(data-aos="zoom-in-right")
           p.mb-0(data-aos="zoom-in-right") El exceso de indicadores genera ruido visual. Por ello, es recomendable que el tablero incluya únicamente variables que impacten directamente en los objetivos organizacionales. A continuación, se muestran los elementos que fortalecen el tablero.
 
@@ -490,7 +490,7 @@
             img(src='@/assets/curso/tema1/img_33.png', class="img-fluid")
         .col-12.col-lg-7.mb-0(data-aos="zoom-in-right")
           p.mb-3 Además, la interpretación efectiva requiere reconocer patrones y anomalías. Las tendencias sostenidas indican comportamientos estructurales del mercado, mientras que las variaciones abruptas pueden revelar problemas críticos o nuevas oportunidades. En este sentido, la interpretación se convierte en una herramienta de anticipación estratégica.
-          p.mb-0 En la siguiente tabla de describen los niveles de análisis, enfoque, alcance y tipo de decisión derivada.
+          p.mb-0 En la siguiente tabla se describen los niveles de análisis, enfoque, alcance y tipo de decisión derivada.
 
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-10.mb-0
@@ -531,7 +531,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-        p.mb-0 Un aspecto central en la interpretación es evitar errores cognitivos. La sobre interpretación de datos parciales, la confirmación de hipótesis previas sin evidencia suficiente o la confusión entre correlación y causalidad pueden conducir a decisiones erróneas. Por ello, el análisis debe fundamentarse en evidencia estadística y contraste de información.
+        p.mb-0 Un aspecto central en la interpretación es evitar errores cognitivos. La sobreinterpretación de datos parciales, la confirmación de hipótesis previas sin evidencia suficiente o la confusión entre correlación y causalidad pueden conducir a decisiones erróneas. Por ello, el análisis debe fundamentarse en evidencia estadística y contraste de información.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
